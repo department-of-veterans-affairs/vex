@@ -1,0 +1,81 @@
+General Medical Clinic
+07/09/2008 13:00
+
+
+CC
+Follow up elevated BP.
+
+Subjective
+The patient was supposed to get his lab work done about 2 weeks ago, but just got it today in preparation for todays visit.
+
+
+
+Diabetes mellitus type 2
+The patient is trying to do better with his diet and exercise.  He has been feeling a little more energetic since starting increased dose of Metformin.
+
+Hypertension
+The patients blood pressure is now within normal limits.  He reports his home BP readings as follows: average = about 125/72; high = about 129/78; low = about 115/67.  He denies light-headedness.
+
+
+Allergies
+Simvastatin: caused severe muscle aches.
+
+PMH
+Hypertension
+Diabetes mellitus type 2 
+Hyperlipidemia
+Benign prostatic hyperplasia 
+Depression
+
+PSurgHx
+Appendectomy as a child.
+
+FamHx
+None significant
+
+SocHx
+Non-smoker, no alcohol use, no illicit drug use.
+Retired banker.
+No children.
+Divorced.
+
+Medications
+Niacin 1000 mg PO daily #90, 3 refills
+Gemfibrozil 600 mg PO BID #180, 3 refills
+Metformin 1000 mg PO BID #180, 3 refills
+Lisinopril 20 mg PO daily #90, 3 refills
+Chlorthalidone 12.5 mg PO daily #90, 3 refills
+Terazosin 2 mg PO daily #90, 3 refills
+Citalopram 40 mg PO daily #90, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+
+Objective
+VITALS:
+	SBP:118, DBP:66, Pulse:86, POx:95, Temp:97.9, RR:12, Weight:215, Height:68, BMI:33
+EXAM: 
+GEN: NAD
+HEART: RRR no M/R/G
+EXT: no LE edema
+
+Assessment and Plan
+
+Diabetes mellitus type 2
+Assessment
+Control of Diabetes mellitus type 2 is improved.
+HbA1c much improved and now within the patients goal range of 6.8 to 7.3.  Microalbumin/creatinine ratio within normal limits today.  Pt tolerating metformin well.
+Plan
+Continue Metformin 1000 mg BID to decrease HbA1c
+
+Hypertension
+Assessment
+Control of Hypertension is improved.
+BP is now within goal limits (less than 130/80) at home and at clinic today.  Chem 8 results reviewed and noted to be within normal limits.  Pt tolerating Lisinopril and Chlorthalidone well.
+Plan
+Continue Chlorthalidone 12.5 mg daily to decrease SBP and DBP
+Continue Lisinopril 20 mg daily to decrease SBP and DBP
+
+Misc.
+Plan
+RTC 6 months.
+
+Author:  IM_Doctor

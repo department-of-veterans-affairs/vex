@@ -1,0 +1,104 @@
+General Medical Clinic
+11/16/2009 13:00
+
+
+CC
+Pt is here for routine follow up.
+
+Subjective
+The patient indicates she has been doing well.  Her main concern today is that she wants to know how her lab results turned out (she got her labs done this morning).  The pt reports near perfect compliance with use of all of her medications.  
+
+
+
+Hypertension
+The pt reports her home BP readings have been within her goal range (less than 130/80).  She denies light headedness.
+
+Iron deficiency anemia
+Tolerating FERROUS SULFATE fine.  No light headedness, Fatigue, or Constipation.
+
+Osteoarthritis
+The pt continues to experience knee pain (now 3/10 on pain scale) on a daily basis but is not interested in further evaluation or treatment for this now.  The pt reports acetaminophen adequately controls her knee pain.
+
+Coronary Artery Disease
+No angina or shortness of breath.  
+
+Hyperlipidemia
+Tolerating SIMVASTATIN fine.
+
+
+Allergies
+NKDA
+
+PMH
+HYPERTENSION NOS
+Hyperlipidemia
+IRON DEFIC ANEMIA NOS
+Coronary Artery Disease
+Osteoarthritis
+
+PSurgHx
+None 
+
+FamHx
+None significant
+
+SocHx
+Lifetime non-user of tobacco.
+Drinks alcohol rarely.
+Has 5 adult children.
+Unemployed (has had many different jobs).
+
+Medications
+Lisinopril 20 mg PO daily #90, 3 refills
+Ferrous sulfate 325 mg PO BID #180, 3 refills
+Metoprolol 50 mg PO BID #180, 3 refills
+Acetaminophen 1000 mg PO q6h PRN #120, 11 refills
+Aspirin 81 mg PO daily #90, 3 refills
+Simvastatin 40 mg PO daily #90, 3 refills
+
+Objective
+VITALS:
+	SBP:120, DBP:75, Pulse:67, POx:94, Temp:99.1, RR:12, Weight:189, Height:66, BMI:31
+EXAM:
+GEN: NAD
+HEART: RRR no M/R/G
+KNEES: non-tender grossly, no redness and no swelling.
+
+Assessment and Plan
+
+Hypertension
+Assessment
+Control of Hypertension is stable.
+BP is within goal range (less than 130/80) and is stable.  Pt is tolerating anti-hypertensive medications well.  Her creatinine and potassium are within normal limits and stable.
+Plan
+Continue Lisinopril 20 mg daily to decrease SBP and DBP
+Continue Metoprolol 50 mg BID to decrease SBP and DBP
+
+Iron deficiency anemia
+Assessment
+Control of Iron deficiency anemia is stable.
+Hematocrit is within normal limits and stable.  Patient is tolerating ferrous sulfate.
+Plan
+Continue Ferrous sulfate 325 mg BID to increase HCT
+
+Osteoarthritis
+Assessment
+Control of Osteoarthritis is stable.
+No concerning symptoms.
+Plan
+Continue Acetaminophen 1000 mg q6h PRN to decrease Knee Pain
+
+Coronary Artery Disease
+Assessment
+Control of Coronary Artery Disease is stable.
+Plan
+Continue Aspirin 81 mg daily to  Prevent recurrent MI
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is stable.
+LDL is within goal range (less than 100) and stable.  Tolerating simvastatin fine.
+Plan
+Continue Simvastatin 40 mg daily to decrease LDL
+
+Author:  IM_Doctor

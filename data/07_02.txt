@@ -1,0 +1,20 @@
+General Medical Telephone
+04/22/2008 17:00
+
+
+Progress - Misc
+Caller: Provider
+Concerning: Lab results
+Urgency: non-urgent
+Provider: Doctor1
+Patient: PatientLast, PatientFirst
+Next Scheduled Appointment:6/25/2008
+
+Assessment and Plan
+
+
+Misc.
+Plan
+I informed the patient that all of his labs came back normal.  I informed him that he needs to have another lab draw before his next appointment and that he should be fasting for that lab draw.
+
+Author:  IM_Doctor

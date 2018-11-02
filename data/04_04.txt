@@ -1,0 +1,78 @@
+Emergency Department Clinic
+12/29/2009 13:00
+
+
+CC
+Dyspnea.
+
+Subjective
+
+Chronic diastolic heart failure
+The patient is a 76-year-old female who presents with complaints of progressively worsening shortness of breath, worse when laying flat.  She also c/o LE swelling.  She denies chest pain.  She has had no LE redness or pain.  She is fairly active and feels best when she is sitting upright.  She has been sleeping in her recliner because she can breathe better when sitting up.  She has no history of heart failure but her mother and father both died of heart problems when they were in their early 60s.  The patient has a history of difficult to control hypertension.  First diagnosed with hypertension about 25 years ago.
+
+
+Allergies
+NKDA
+
+PMH
+1. Breast cancer (in remission)
+2. Hypertension
+3. Hyperlipidemia
+4. Diabetes mellitus type 2
+5. Chronic renal impairment
+
+PSurgHx
+Bilateral Mastectomy in 2006
+
+FamHx
+Father and mother both died of heart problems in their early 60s.  No cancer.
+
+SocHx
+The patient is a lifetime non-user of tobacco, alcohol and illicit drugs.  She is a widow.  She has 10 children (all are living and well).  Currently she lives close by with her son.
+
+Medications
+Diltiazem 240 mg PO daily #90, 3 refills
+Metoprolol 25 mg PO BID #180, 3 refills
+Lisinopril 40 mg PO daily #90, 3 refills
+Hydrochlorothiazide 12.5 mg PO daily #90, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+Metformin 1000 mg PO BID #180, 3 refills
+Simvastatin 40 mg PO daily #90, 3 refills
+
+Review of Systems
+Full ROS negative except as noted above.
+
+Objective
+VITALS:
+	SBP:123, DBP:71, Pulse:62, POx:89, Temp:98.8, RR:19, Weight:151, Height:62, BMI:28
+VITALS
+
+EXAM: 
+GEN: mild distress, well developed and well nourished.
+HEENT: NCAT, EOMI, PERRLA, normal TMs, throat non-erythematous.
+NECK: no lymphadenopathy; distended neck veins noted.
+HEART: RRR no M/R/G
+LUNGS: bibasilar rales noted
+ABD: soft, NT, ND
+EXT: bilateral LE edema (2+); no erythema, no tenderness.
+
+EKG: NSR, LVH.
+
+Assessment and Plan
+
+Chronic diastolic heart failure
+Assessment
+New diagnosis of Chronic diastolic heart failure.
+I spoke with cardiology attending that was able to give me a preliminary reading of the echocardiogram done today; it reveals normal LVEF(60%) and significant LVH (consistent with diastolic heart failure).  EKG c/w LVH.  Pulmonary edema noted on CXR explains her shortness of breath.  The patient has been in the ER for about 6 hours now; she has urinarted about 2 liters of fluid since receiving a 40 mg IV dose of Furosemide; her oxygen saturation is now 94% on RA (89% on RA on presentation).  The patient is appropriate for discharge from the ER now.
+Plan
+Start Furosemide 20 mg daily today to decrease SBP and Edema (peripheral)
+Check CXR
+Check BNP
+Check ECG
+Check TTE
+Check Chem14
+Check CBC
+Follow up with PCP 2-3 days.
+
+
+Author:  ED_Doctor

@@ -1,0 +1,102 @@
+General Medical Clinic
+05/14/2008 13:00
+
+
+CC
+The patient is a new patient here to establish care.
+
+Subjective
+The pt recently lost her job as a maintenance woman at a hotel.  She is now without health insurance.  She has multiple medical problems as outlined below.  She has generally been in good health.  All of her medical conditions have been well controlled.
+
+
+
+Hypertension
+The patient was first diagnosed with HTN about 5 years ago.  She is currently taking Metoprolol 50 mg PO BID and lisinopril 20 mg PO daily as prescribed by her previous healthcare provider.  She denies light headedness and indicates she has always tolerated her antihypertensive medications well.
+
+Iron deficiency anemia
+Pt denies fatigue, Light Headedness and Constipation .  Indicates her last CBC done 1 year ago revealed normal hemoglobin and hematocrit.  Tolerating Ferrous sulfate fine.
+
+Coronary Artery Disease
+About 3 years ago, the pt went to the ER with complaints of chest pain.  It turns out, she was having a heart attack.  she received a cardiac stent at that time and has had no significant angina since then.  She is taking 81 mg of ASPIRIN daily, which she tolerates well.  She is also taking metoprolol and lisinopril as previously noted.
+
+Hyperlipidemia
+The patient has had good cholesterol levels since starting simvastatin about 3 years ago.  She is currently using simvastatin 40 mg daily.  Last lipid panel was done about one year ago per pt report.  The patient denies muscle pain.
+
+
+Allergies
+NKDA
+
+PMH
+HYPERTENSION NOS
+Hyperlipidemia
+IRON DEFIC ANEMIA NOS
+Coronary Artery Disease
+
+
+PSurgHx
+None
+
+FamHx
+None significant
+
+SocHx
+Lifetime non-user of tobacco.
+Drinks alcohol rarely.
+Has 5 adult children.
+Unemployed (has had many different jobs).
+
+Review of Systems
+Negative
+
+Objective
+VITALS:
+	SBP:121, DBP:72, Pulse:63, POx:93, Temp:98.1, RR:12, Weight:182, Height:66, BMI:29
+EXAM:
+GEN: NAD, well-developed, well groomed.
+HEENT: NCAT
+HEART: RRR, no M/R/G
+LUNGS: CTAB no W/R/R
+ABD: soft, NT, ND
+EXT: no LE edema
+
+Assessment and Plan
+
+Hypertension
+Assessment
+Control of Hypertension is stable.
+Well controlled without medication side effects per pt report.
+Plan
+Start Lisinopril 20 mg daily today to decrease SBP and DBP
+Check Chem14 to monitor kidney and liver
+Start Metoprolol 50 mg BID today to decrease SBP and DBP
+
+Iron deficiency anemia
+Assessment
+Control of Iron deficiency anemia is stable.
+Pt doing well; tolerating ferrous sulfate well; pt due for CBC now.
+Plan
+Start Ferrous sulfate 325 mg BID today to increase HCT
+Check CBC to monitor anemia
+
+Coronary Artery Disease
+Assessment
+Control of Coronary Artery Disease is stable.
+Doing well
+Plan
+Start Aspirin 81 mg daily today to  Prevent recurrent MI
+Continue Metoprolol and Lisinopril as previously noted.
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is stable.
+Well controlled per pt report.  Tolerating simvastatin well.  Due for lipid panel now.
+Plan
+Check Lipid panel to monitor cholesterol
+Start Simvastatin 40 mg daily today to decrease LDL
+Chem14 also ordered.
+
+Misc.
+Plan
+RTC in 1 year.
+
+Author:  IM_Doctor

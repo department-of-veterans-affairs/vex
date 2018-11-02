@@ -1,0 +1,26 @@
+General Medical Telephone
+11/03/2009 14:00
+
+
+Progress - Misc
+Caller: Patient
+Concerning: Medication refill request
+Urgency: non-urgent
+Provider: Doctor1
+Patient: PatientLast, PatientFirst
+Next Scheduled Appointment: none
+
+CC
+Medication refill request
+
+Subjective
+The patient would like all meds refilled.
+
+Assessment and Plan
+
+
+Misc.
+Plan
+I spoke with provider who agreed to refill all medications.
+
+Author:  IM_Nurse

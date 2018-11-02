@@ -1,0 +1,23 @@
+General Medical Telephone
+06/16/2009 08:00
+
+
+Progress - Misc
+Caller: Patient
+Concerning: Lab order request
+Urgency: non-urgent
+Provider: Doctor1
+Patient: PatientLast, PatientFirst
+Next Scheduled Appointment: 6/23/2009
+
+CC
+The patient called and asked that her labs be ordered so she can get them before her appointment next week.
+
+Assessment and Plan
+
+
+Misc.
+Plan
+IM_Doctor paged at 08:00 with the following message: Please see telephone note regarding patientFirst3 patientLast3. pt requesting labs in preparation for visit next week.
+
+Author:  IM_Nurse

@@ -1,0 +1,70 @@
+Ophthalmology Clinic
+08/19/2009 13:00
+
+
+CC
+Diabetic eye exam.
+
+Subjective
+Diabetes diagnosed about 5  years ago.  Well controlled on Metformin.  No history of eye problems.  Uses reading glasses.
+
+
+Allergies
+beta blocker: bradycardia and light headedness
+Metformin: nausea.
+
+PMH
+Hypertension
+Diabetes mellitus type 2
+Chronic obstructive pulmonary disease 
+Chronic sinusitis
+Allergic rhinitis
+Hyperlipidemia
+
+PSurgHx
+None.
+
+FamHx
+None significant.
+
+SocHx
+Previous smoker; 50 pack-year history; quit about 3 years ago.
+Drinks alcohol rarely.
+No illicit drug use.
+The patient works as an accountant for a large computer company.
+He is married and has 3 children (ages 15, and 18 and 25).
+
+Medications
+Amoxicillin 875 mg PO BID #20, 0 refills
+Nasal mometasone 2 sprays each nostril daily #90, 3 refills
+Cetirizine 10 mg PO daily #90, 3 refills
+Triamterene 50 mg PO daily #90, 3 refills
+Hydrochlorothiazide 25 mg PO daily #90, 3 refills
+Amlodipine 5 mg PO daily #90, 3 refills
+Lisinopril 20 mg PO daily #90, 3 refills
+Glipizide 5 mg PO daily #90, 3 refills
+Oxygen gas 1 L/min inhaled daily #90, 3 refills
+Respiratory fluticasone 220 mcg inhaled BID #180, 3 refills
+Tiotropium 18 mcg inhaled daily #90, 3 refills
+Albuterol 2 puffs inhaled daily #1, 3 refills
+Simvastatin 40 mg PO daily #90, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+
+Objective
+VITALS:
+	SBP:127, DBP:79, Pulse:62, POx:90, Temp:98.3, RR:12, Weight:246, Height:68, BMI:37
+VITALS
+
+EXAM: 
+EYES: EOMI, PERRLA; both eyes dilated and fundi examined; both fundi are completely normal with no sign of diabetic retinopathy.
+
+Assessment and Plan
+
+
+Misc.
+Assessment
+No diabetic retinopathy.
+Plan
+Return for diabetic eye exam yearly.
+
+Author:  Oph_Doctor

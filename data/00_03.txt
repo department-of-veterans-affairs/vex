@@ -1,0 +1,90 @@
+General Medical Clinic
+05/06/2008 13:00
+
+
+CC
+Follow up elevated BP.
+
+Subjective
+
+Hyperlipidemia
+The patient reports less flushing since starting Aspirin.  Flushing is very minimal now.
+
+Diabetes mellitus type 2
+The pt is tolerating increased dose of metformin fine without GI upset.
+
+Hypertension
+The patients blood pressure is still elevated.  He reports his home BP readings as follows: average = about 140/85; high = about 158/97; low = about 132/76. 
+
+
+
+Allergies
+Simvastatin: caused severe muscle aches.
+
+PMH
+Diabetes mellitus type 2 
+Hyperlipidemia
+Benign prostatic hyperplasia
+Depression
+
+PSurgHx
+Appendectomy as a child.
+
+FamHx
+None significant
+
+SocHx
+Non-smoker, no alcohol use, no illicit drug use.
+Retired banker.
+No children.
+Divorced.
+
+Medications
+Niacin 1000 mg PO daily #90, 3 refills
+Gemfibrozil 600 mg PO BID #180, 3 refills
+Metformin 1000 mg PO BID #180, 3 refills
+Terazosin 2 mg PO daily #90, 3 refills
+Citalopram 40 mg PO daily #90, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+
+Objective
+VITALS:
+	SBP:158, DBP:99, Pulse:80, POx:97, Temp:98.6, RR:13, Weight:215, Height:68, BMI:33
+EXAM: 
+GEN: NAD
+HEART: RRR no M/R/G
+EXT: no LE edema
+
+Assessment and Plan
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is improved.
+Pt is better tolerating use of Niacin ER given use of Aspirin prior to Niacin administration (now having significant flushing only once per week).  His LDL is within goal range (less than 70) as of 4/4/08.
+Plan
+Continue Niacin ER 1000 mg daily to decrease LDL and HDL
+Continue Gemfibrozil 600 mg BID to decrease LDL and HDL
+Continue Aspirin 81 mg daily to decrease Flushing
+
+Diabetes mellitus type 2
+Assessment
+New diagnosis of Hypertension.
+Patient meets criteria for new diagnosis of hypertension.  His goal BP is less than 130/80 given diagnosis of diabetes mellitus type 2.
+Plan
+Continue Metformin 1000 mg BID to decrease HbA1c
+
+Hypertension
+Assessment
+New diagnosis of Hypertension.
+Patient meets criteria for new diagnosis of hypertension.  His goal BP is less than 130/80 given diagnosis of diabetes mellitus type 2.
+Plan
+Start Lisinopril 20 mg daily today to decrease SBP and DBP
+Pt to continue checking BP on his own.
+
+
+Misc.
+Plan
+RTC one month.
+
+
+Author:  IM_Doctor

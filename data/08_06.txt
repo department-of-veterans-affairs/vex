@@ -1,0 +1,89 @@
+General Medical Clinic
+06/30/2009 13:00
+
+
+CC
+F/U BPH and Parkinson disease.
+
+Subjective
+
+
+
+Parkinson disease
+Tremor and bradykinesia improved significantly; pt feels his symptoms are now adequately controlled again.  He is able to get around more quickly now and does not spill liquid when drinking from a cup.
+
+
+Benign prostatic hyperplasia
+BPH symptoms much improved per patients report.  He is satisfied with his current symptoms and is not interested in more aggressive treatment at this time.
+
+
+
+Allergies
+NSAIDs: severe abdominal pain.
+
+
+PMH
+Hypertension
+Parkinson disease
+Depression
+Benign prostatic hyperplasia
+Osteoarthritis
+Hyperlipidemia
+Coronary Artery Disease
+
+PSurgHx
+none
+
+FamHx
+Mother died of CVA at age of 64
+Father died of MI at age 53
+
+
+SocHx
+Widower (wife died several years ago from breast cancer).
+Currently working at a small grocery store in town.
+Has 1 child that lives in another state.
+Denies alcohol and illicit drug use (has never used); he does smoke 1 ppd of cigarettes and has done so for about 40 years (40-pack-year history).
+
+
+Medications
+Hydrochlorothiazide 12.5 mg PO daily #90, 3 refills
+Carbidopa +levodopa 25mg/100mg tablet  1 Tablet PO q6h #360, 3 refills
+Acetaminophen 1000 mg PO daily #90, 3 refills
+Tamsulosin 0.8 mg PO daily #90, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+Citalopram 40  mg PO daily #90, 3 refills
+Simvastatin 80 mg PO daily #90, 3 refills
+
+Review of Systems
+As noted above.
+
+Objective
+VITALS:
+	SBP:137, DBP:81, Pulse:76, POx:97, Temp:98.1, RR:16, Weight:188, Height:73, BMI:25
+EXAM: 
+GEN: NAD
+NEURO: tremor and bradykinesia are less pronounced today, but both are still present.
+
+Assessment and Plan
+
+Parkinson disease
+Assessment
+Control of Parkinson disease is improved.
+Sinemet dose increased last month; bradykinesia and tremor now adequately controlled.
+Plan
+Continue Sinemet 25/100 mg 1 Tablet q6h to decrease and Tremor (parkinsonian)
+
+Benign prostatic hyperplasia
+Assessment
+Control of Benign prostatic hyperplasia is improved.
+IPSS-AUA decreased to 14.  Post-void residual done in office today revealed 126 mL residual, which is within goal range for this patient.
+Plan
+Continue Tamsulosin 0.8 mg daily to decrease  IPSS-AUA, and decrease  post-void residual volume
+
+Misc.
+Plan
+RTC 6 months.
+
+
+Author:  IM_Doctor

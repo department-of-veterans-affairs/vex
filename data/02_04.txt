@@ -1,0 +1,33 @@
+General Medical Telephone
+01/14/2009 17:00
+
+
+Progress - Misc
+Caller: Provider
+Concerning: Lab results
+Urgency: non-urgent
+Provider: Doctor1
+Patient: PatientLast, PatientFirst
+Next Scheduled Appointment: 2/24/2009
+
+Subjective
+
+
+
+Hypertension
+
+
+
+Assessment and Plan
+
+Hypertension
+Assessment
+Control of Hypertension is improved.
+Plan
+Continue HCTZ 25 mg daily to decrease SBP and DBP
+Continue Amlodipine 5 mg daily to decrease SBP and DBP
+Continue Lisinopril 20 mg daily to decrease SBP and DBP
+Continue Triamterene 50 mg daily to decrease SBP and DBP, and increase Potassium
+I informed pt that his potassium is now normal.  I asked him to get labs done prior to next visit in about 1 month.
+
+Author:  IM_Doctor

@@ -1,0 +1,140 @@
+General Medical Clinic
+01/02/2008 13:00
+
+
+CC
+Follow up ER visit for CAP.
+
+Subjective
+The patient is new to our clinic.  He moved here about 6 months ago.  He needs all his medications filled today except for his antihypertensive medications, which were filled by the ER physician who saw the patient last week.
+
+Community Acquired Pneumonia: The patient was seen in the ER a week ago where he was diagnosed with CAP and was started on Levofloxacin 750 mg daily X 5 days (took last dose today).  He feels quite well now.  He denies, dyspnea, cough and fever. 
+
+Hypertension
+The patient complains of significant light-headedness, especially every time he stands up.  He says that in the past, he had light-headedness when his BP was too low (about 110/55).  He denies syncope and palpitations.  He indicates he has been drinking plenty of liquids and did have a normal breakfast and lunch today.  He notes he had been out of his HCTZ and Lisinopril for about 3 months until they were filled in the ER last week.  Since he has started taking those again, he has been feeling light-headed.  He is currently taking all three of his antihypertensive medications as prescribed (HCTZ 12.5 mg qday, Metoprolol 50 mg BID, and Lisinopril 20 mg qday).  
+
+
+Diabetes mellitus type 2
+The patient was diagnosed with Diabetes mellitus type 2 about 10 years ago and has been well controlled on Metformin since then.  His current dose of metformin is 500 mg BID.  He thinks his last A1c was done about one year ago and that it was about 6.5.
+
+Coronary Artery Disease
+The patient was diagnosed with CAD after undergoing a cardiac exercise stress test done to work up chest pain concerning for angina.  His stress test was abnormal so he underwent cardiac catheterization where he was found to have a significant stenosis in his LAD coronary artery.  A stent was placed in his LAD at that time and the patient has had no chest pain since then.
+
+Osteoarthritis
+The patient has bilateral knee osteoarthritis that was diagnosed about 10 years ago.  His pain has been adequately controlled for more than 5 years using Acetaminophen 1000 mg BID.
+
+
+Hyperlipidemia
+The patient was started on a statin after having his stroke 3 years ago.  He doesnt know what his cholesterol levels have been, nor when his cholesterol was last checked.
+
+History of cerebrovascular accident without residual deficits
+The patient indicates he had a stroke about 3 years ago.  At that time he was seen in the ER for difficulty speaking and weakness on the right side (arms and legs).  His symptoms essentially resolved within 2 weeks, but he had an MRI while he was in the hospital that showed some ischemic changes in the brain.
+
+
+Allergies
+NKDA
+
+
+PMH
+Hypertension
+Osteoarthritis
+Coronary Artery Disease
+Diabetes mellitus type 2
+History of cerebrovascular accident without residual deficits
+Hyperlipidemia
+
+PSurgHx
+1. Cardiac stent placed in 2005
+
+
+FamHx
+non-contributory
+
+
+SocHx
+no tobacco, alcohol or illicit drug use
+
+
+Medications
+Hydrochlorothiazide 12.5 mg PO daily #90, 3 refills
+Lisinopril 20 mg PO daily #90, 3 refills
+Metoprolol 50 mg PO BID #180, 3 refills
+
+Review of Systems
+All negative except as noted above.
+
+
+Objective
+VITALS:
+	SBP:110, DBP:52, Pulse:67, POx:96, Temp:98.7, RR:14, Weight:196, Height:70, BMI:28
+Orthostatic BP readings: supine 122/63, standing 101/50; moderate light-headedness noted with standing.
+
+EXAM:
+GEN: NAD, well developed and well nourished.
+HEENT: NCAT, EOMI, PERRLA, TMs are pearly grey with normal landmarks and light reflexes, nasal turbinates are pink and non-swollen, oropharynx is non-erythematous with no exudates.
+NECK: no lymphadenopathy.
+HEART: RRR no M/R/G.
+LUNGS: CTAB no W/R/R.
+ABD: soft, NT, ND, +BS
+EXT: no LE edema
+FEET: normal monofilament test bilaterally; normal DP pulses bilaterally; no abnormal lesions noted.
+NEURO: AAOX3, CN II-XII intact, normal patellar DTRs, normal gait.
+
+Assessment and Plan
+
+Hypertension
+Assessment
+Control of Hypertension is worse.
+The patient seems to be having light-headedness from low BP, especially with standing.  Orthostatic hypotension confirmed with orthostatic BP readings done in office today.  Pt apparently doesnt tolerate BP readings less than about 115/60.  Creatinine and potassium were WNL when checked in ER last week.
+Plan
+Check Chem14
+Continue HCTZ 12.5 mg daily to decrease DBP and SBP
+Continue Lisinopril 20 mg daily to decrease SBP and DBP
+Stop Metoprolol to decrease Light-headedness
+The patient is to keep track of his BP on his own and report back in 1 month, sooner if light-headedness doesnt improve in 1-2 days or if it gets worse. 
+
+
+Diabetes mellitus type 2
+Assessment
+Control of Diabetes mellitus type 2 is stable.
+Plan
+Check HbA1c
+Start Metformin 500 mg BID on 01/02/2008 17:00 to decrease HbA1c and Glucose
+Check Microalbumin/Creat.
+
+Coronary Artery Disease
+Assessment
+Control of Coronary Artery Disease is stable.
+No angina since stent placed in 2005.  Patient is on a beta blocker, ACE-I and aspirin.
+Plan
+Start Aspirin 81 mg daily today to prevent  MI
+
+Osteoarthritis
+Assessment
+Control of Osteoarthritis is stable.
+Well controlled with acetaminophen.  Knee pain is 3/10 today, which is within the patients goal range of 0/10 to 4/10.
+Plan
+Start Acetaminophen 1000 mg BID PRN today to decrease Knee Pain
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is stable.
+Plan
+Start Simvastatin 80 mg daily today to decrease LDL, and increase HDL
+
+History of cerebrovascular accident without residual deficits
+Assessment
+Pt had stroke about 3 years ago; confirmed on MRI.  No recurrence since then.  Pt is taking a daily aspirin.
+
+
+Misc.
+Assessment
+Community acquired pneumonia: appears to have resolved post treatment with Levofloxacin.
+
+Plan
+Community acquired pneumonia: Check CBC and Chest X-ray to make sure pneumonia has resolved.
+
+RTC in one month.
+
+
+Author:  IM_Doctor

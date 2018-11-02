@@ -1,0 +1,35 @@
+General Medical Telephone
+07/13/2010 08:00
+
+
+Progress - Misc
+Caller: Patient
+Concerning: Hypoglycemia.
+Urgency: Urgent
+Provider: Doctor1
+Patient: PatientLast, PatientFirst
+Next Scheduled Appointment: none.
+
+CC
+symptomatic hypoglycemia
+
+Subjective
+
+Diabetes mellitus type 2
+The pt called in to ask what she should do about the fact that her blood sugars have been lower recently.   She has had 2 episodes of symptomatic hypoglycemia in the last 4-6 weeks.  One episode happened on 6/15/2010 at about 5 AM; at that time, her BG was 62 and she was feeling shaky; she had some juice and felt better about 15 minutes later.  Another episode occurred today at about 4 AM when her BG was 53; she felt shaky and a little confused; she had some juice and felt better about 30 minutes later.  
+
+Assessment and Plan
+
+Diabetes mellitus type 2
+Assessment
+Control of Diabetes mellitus type 2 is worse.
+Symptomatic hypoglycemia.
+Plan
+Continue Aspirin 81 mg daily to prevent  stroke
+Continue Glyburide 2.5 mg daily to decrease HbA1c
+
+Misc.
+Plan
+The patients provider was informed of the patients complaints and low BG readings (low BG readings entered into electronic record).  The provider asked that the patient schedule an appointment to be seen in clinic as soon as possible, getting fasting labs prior to the visit; this has been communicated to the patient.  The patient was instructed on proper treatment of hypoglycemia.
+
+Author:  IM_Nurse

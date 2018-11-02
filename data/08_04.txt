@@ -1,0 +1,91 @@
+General Medical Clinic
+11/26/2008 13:00
+
+
+CC
+F/U Hyperlipidemia.
+
+
+Subjective
+
+
+
+Coronary Artery Disease
+No angina, no dyspnea on exertion.
+
+
+Hyperlipidemia
+The patient has been compliant with his increased dose of simvastatin and denies adverse effects.
+
+
+
+Allergies
+NSAIDs: severe abdominal pain.
+
+
+PMH
+Hypertension
+Parkinson disease
+Depression
+Benign prostatic hyperplasia
+Osteoarthritis
+Hyperlipidemia
+Coronary Artery Disease
+
+PSurgHx
+none
+
+FamHx
+Mother died of CVA at age of 64
+Father died of MI at age 53
+
+
+SocHx
+Widower (wife died several years ago from breast cancer).
+Currently working at a small grocery store in town.
+Has 1 child that lives in another state.
+Denies alcohol and illicit drug use (has never used); he does smoke 1 ppd of cigarettes and has done so for about 40 years (40-pack-year history).
+
+
+Medications
+Hydrochlorothiazide 12.5 mg PO daily #90, 3 refills
+Carbidopa +levodopa 25mg/100mg tablet  1 tablet PO q8h #270, 3 refills
+Acetaminophen 1000 mg PO daily #90, 3 refills
+Tamsulosin 0.4 mg PO daily #90, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+Citalopram 40  mg PO daily #90, 3 refills
+Simvastatin 80 mg PO daily #90, 3 refills
+
+Review of Systems
+As noted above.
+
+
+Objective
+VITALS:
+	SBP:139, DBP:83, Pulse:77, POx:94, Temp:97.8, RR:16, Weight:190, Height:73, BMI:25
+EXAM:
+GEN: NAD
+HEART: RRR no M/R/G
+
+Assessment and Plan
+
+Coronary Artery Disease
+Assessment
+Control of Coronary Artery Disease is stable.
+No worrisome symptoms.  The pt is not ready to quit smoking per his report.
+Plan
+Continue Aspirin 81 mg daily to  prevent MI
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is improved.
+Tolerating increased dose of simvastatin.
+Plan
+Continue Simvastatin 80 mg daily to decrease LDL, and increase HDL
+
+Misc.
+Plan
+RTC 6 months.
+
+
+Author:  IM_Doctor

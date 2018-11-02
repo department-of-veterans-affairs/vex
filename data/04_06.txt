@@ -1,0 +1,16 @@
+Radiology Echocardio Lab
+12/30/2009 00:00
+
+
+Progress - Misc
+EXAM: Transthoracic Echocardiogram
+
+CLINICAL HISTORY: Dyspnea and orthopnea.
+
+FINDINGS: 
+VALVES: No stenosis or regurgitation noted. 
+CHAMBERS: Both atria demonstrate normal size and movement.  The  right ventricle demonstrates normal size and function.  The Left ventricle is hypertrophic.  LVEF is estimated at 60%.  
+
+IMPRESSION: LVH with preserved LVEF of 60%.
+
+Author:  Cardio_Doctor

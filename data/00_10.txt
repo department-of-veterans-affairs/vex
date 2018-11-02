@@ -1,0 +1,47 @@
+General Medical Telephone
+07/23/2010 08:00
+
+
+Progress - Misc
+Caller: Patient
+Concerning: Lab orders
+Urgency: non-urgent
+Provider: Doctor1
+Patient: PatientTraining
+Next Scheduled Appointment: 7/1/2010
+
+CC
+"I want to get my labs prior to my doctor appointment".
+
+Assessment and Plan
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is stable.
+Plan
+Continue Niacin ER 1000 mg daily to decrease LDL and HDL
+Continue Gemfibrozil 600 mg BID to decrease LDL and HDL
+Continue Aspirin 81 mg daily to decrease Flushing
+Check Lipid panel
+
+Diabetes mellitus type 2
+Assessment
+Control of Diabetes mellitus type 2 is stable.
+Plan
+Check HbA1c
+Continue Metformin 1000 mg BID to decrease HbA1c
+Check Microalbumin/Creat.
+
+Hypertension
+Assessment
+Control of Hypertension is stable.
+Plan
+Continue Lisinopril 20 mg daily to decrease SBP and DBP
+Check Chem14
+Continue Chlorthalidone 12.5 mg daily to decrease SBP and DBP
+
+Misc.
+Plan
+Provider informed of patients request; provider requests that patient have Chem14, fasting lipid panel, CBC, HbA1c and microalbumin/creatinine ratio done today prior to clinic visit.  Provider will sign orders.  Patient informed labs now ordered and he needs to get them prior to clinic visit.  He agrees and confirms he is still fasting.
+
+Author:  IM_Nurse

@@ -1,0 +1,37 @@
+General Medical Telephone
+11/19/2008 17:00
+
+
+Progress - Misc
+Caller: Provider
+Concerning: Adverse drug event
+Urgency: urgent
+Provider: Doctor1
+Patient: PatientLast, PatientFirst
+Next Scheduled Appointment: none
+
+CC
+Nausea and bloating
+
+Subjective
+Nurse informed me that patient called with complaints of nausea and bloating.
+
+
+
+Diabetes mellitus type 2
+Patient informs me that he has been having significant upset stomach (nausea and abdominal bloating) since his dose of Metformin was increased about 2 weeks ago.
+
+Assessment and Plan
+
+Diabetes mellitus type 2
+Assessment
+Control of Diabetes mellitus type 2 is worse.
+Patient not tolerating increased dose of Metformin. 
+Plan
+Decrease Metformin from 1000 mg BID to 500 mg BID today to decrease Upset stomach
+
+Misc.
+Plan
+I instructed the patient to schedule an appointment to see me in the clinic sometime in the next 2 weeks, sooner if symptoms worsen.
+
+Author:  IM_Doctor

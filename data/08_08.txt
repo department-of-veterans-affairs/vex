@@ -1,0 +1,104 @@
+General Medical Clinic
+01/06/2010 13:00
+
+
+CC
+F/U osteoarthritis; Parkinson disease.
+
+Subjective
+
+
+
+Parkinson disease
+The patient indicates his Parkinsonian tremor is worsening.  He once again has a hard time drinking from a glass without spilling some of the liquid in it (using a straw helps); his tremor is better with activity.  Others are once again telling him that he is moving more slowly lately.
+
+
+Osteoarthritis
+The patients knee pain is improved significantly with occasional use of Lortab as prescribed at last visit.  Knee pain is 3/10 today.
+
+
+Hyperlipidemia
+Patient got his labs done this morning and wants to know how his cholesterol looks.
+
+
+Allergies
+NSAIDs: severe abdominal pain.
+
+
+PMH
+Hypertension
+Parkinson disease
+Depression
+Benign prostatic hyperplasia
+Osteoarthritis
+Hyperlipidemia
+Coronary Artery Disease
+
+PSurgHx
+none
+
+FamHx
+Mother died of CVA at age of 64
+Father died of MI at age 53
+
+
+SocHx
+Widower (wife died several years ago from breast cancer).
+Currently working at a small grocery store in town.
+Has 1 child that lives in another state.
+Denies alcohol and illicit drug use (has never used); he does smoke 1 ppd of cigarettes and has done so for about 40 years (40-pack-year history).
+
+
+Medications
+Hydrochlorothiazide 12.5 mg PO daily #90, 3 refills
+Carbidopa +levodopa 25mg/100mg tablet  1 Tablet PO q6h #360, 3 refills
+Acetaminophen 1000 mg PO daily #90, 3 refills
+Acetaminophen + hydrocodone bitartrate 5 mg PO BID #60, 5 refills
+Tamsulosin 0.8 mg PO daily #90, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+Citalopram 40  mg PO daily #90, 3 refills
+Simvastatin 80 mg PO daily #90, 3 refills
+
+Review of Systems
+As noted above.
+
+
+Objective
+VITALS:
+	SBP:139, DBP:84, Pulse:64, POx:94, Temp:97.9, RR:15, Weight:188, Height:73, BMI:25
+EXAM:
+GEN: NAD
+NEURO: significant tremor noted at rest and with purposeful movement (worse at rest);  gait is slow, but pt appears to have good balance.
+
+Assessment and Plan
+
+Parkinson disease
+Assessment
+Control of Parkinson disease is worse.
+Bradykinesia and tremor not adequately controlled with current regimen of Sinemet.
+Plan
+Increase Sinemet 25/100 mg from 1 Tablet q6h to 1 Tablet q4h today to decrease and Tremor (parkinsonian)
+
+Osteoarthritis
+Assessment
+Control of Osteoarthritis is improved.
+Lortab started at last visit; knee pain is now adequately controlled; current pain is 3/10.
+Plan
+Continue Acetaminophen 1000 mg daily to decrease Knee Pain
+Continue Lortab 5 mg BID to decrease Knee Pain
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is stable.
+LDL is 88, which is within patients goal range of less than 100.
+Plan
+Continue Simvastatin 80 mg daily to decrease LDL, and increase HDL
+
+Misc.
+Plan
+Pt informed that all his labs came back normal.
+
+RTC 1 month.
+
+
+Author:  IM_Doctor

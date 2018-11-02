@@ -1,0 +1,22 @@
+General Medical Telephone
+05/11/2009 17:00
+
+
+Progress - Misc
+Caller: Provider
+Concerning: Lab results
+Urgency: non-urgent
+Provider: Doctor1
+Patient: PatientLast, PatientFirst
+Next Scheduled Appointment: None
+
+Assessment and Plan
+
+
+Misc.
+Assessment
+The patients goal LDL is 130 given his Framingham 10-year risk of 12%.
+Plan
+I informed the patient that all of his labs came back normal.
+
+Author:  IM_Doctor

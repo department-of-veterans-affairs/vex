@@ -1,0 +1,115 @@
+General Medical Clinic
+06/30/2009 13:00
+
+
+CC
+Establish care.
+
+Subjective
+76 y.o. female with multiple medical problems presents to establish care.  She recently moved to town to live with her son who is here with her now.
+
+She indicates her memory is good (pts son agrees).  She has decided to stop driving because she feels her reflexes are not as fast as they used to be.  She also no longer cooks for herself although she thinks she could if she had to.  She is independent with all other IADLs and ADLS.
+
+The patient brings several outside medical records with her to this visit, which confirms the history below.  Of note, her last lab work was done about 6 months ago.
+
+
+
+Hypertension
+The patient has a history of hard to control hypertension that was first diagnosed when she was about 50.  At one time she was on 5 medications to control her blood pressure but now only uses Metoprolol 25 mg BID, Lisinopril 40 mg daily and Diltiazem 240 mg daily.  She used to weight about 200 pounds but lost about 50 pounds after going through treatment for breast cancer about 3 years ago.  She denies light-headedness now, but she does report a history of light-headedness with SBP less than 115 and DBP less than 65.
+
+Chronic renal impairment
+The patients creatinine has consistently been at about 1.9 over the last 2 years per her report.  She does have outside medical records with her today that confirm this report.  According to outside records, she had an extensive workup and no etiology was found so it was determined diabetes was the likely cause.
+
+Diabetes mellitus type 2
+The patient was diagnosed with diabetes about 5 years ago.  She currently uses metformin 1000 mg BID.  She was also on Rosiglitazone for about 3 years.  Rosiglitazone was stopped about 2 years ago because her HbA1c looked so good (probably improved because of weight loss).  Her last HbA1c was 7.3.  She has never had any problems with her feet.  She is due for diabetic eye exam.
+
+Breast cancer
+The patient was diagnosed with breast cancer about 3 years ago and underwent bilateral mastectomy and radiation therapy.  She has been in remission since initial treatment.
+
+
+Hyperlipidemia
+The patient indicates her cholesterol has been well controlled for years on Simvastatin 40 mg daily.
+
+
+Allergies
+NKDA
+
+PMH
+1. Breast cancer (in remission)
+2. Hypertension
+3. Hyperlipidemia
+4. Diabetes mellitus type 2
+5. Chronic renal impairment
+
+PSurgHx
+Bilateral Mastectomy in 2006
+
+FamHx
+Father and mother both died of heart problems in their early 60s.  No cancer.
+
+SocHx
+The patient is a lifetime non-user of tobacco, alcohol and illicit drugs.  She is a widow.  She has 10 children (all are living and well).  Currently she lives close by with her son.
+
+Review of Systems
+Except as noted above, full ROS is negative.
+
+Objective
+VITALS:
+	SBP:128, DBP:70, Pulse:57, POx:94, Temp:98.9, RR:14, Weight:144, Height:62, BMI:26
+VITALS
+
+EXAM:
+GEN: NAD, well developed and well nourished female.
+HEART: RRR no M/R/G
+LUNGS: CTAB no W/R/R
+EXT: no LE edema
+FEET: normal monofilament test bilaterally; no abnormal lesions noted; normal color and temperature.  Normal DP and PT pulses.
+
+Assessment and Plan
+
+Hypertension
+Assessment
+Control of Hypertension is stable.
+Patient with long term (27 yrs) HTN currently controlled (128/70) with Metoprolol,  Lisinopril, and Diltiazem.  She reports no current medication side effects.
+Plan
+Start Diltiazem 240 mg daily today to decrease SBP and DBP
+Check Chem14
+Start Metoprolol 25 mg BID today to decrease SBP and DBP
+Start HCTZ 12.5 mg daily today to decrease SBP and DBP
+Start Lisinopril 40 mg daily today to decrease DBP and SBP
+
+Chronic renal impairment
+Assessment
+Control of Chronic renal impairment is stable.
+Patient with renal impairment for the last two years likely secondary to DM2.  I will continue to monitor.
+
+Diabetes mellitus type 2
+Assessment
+Control of Diabetes mellitus type 2 is stable.
+Pateints DM2 diagnosed about five years ago and is now stable for the last two years (last HbA1c - 7.3) secondary to medication and weight control.  Patient currently on metformin and does not  complain of side effects.  Foot exam normal.  She is due fo a diabetic eye exam.
+Plan
+Check Microalbumin/Creat.
+Check HbA1c
+Start Aspirin 81 mg daily today
+Start Metformin 1000 mg BID today to decrease HbA1c and Glucose
+
+Breast cancer
+Assessment
+Control of Breast cancer is stable.
+Patient in remission since bilateral mastectomy three years ago (2006).
+
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is stable.
+Patients hyperlipidemia is well controlled with simvastatin.  She reports no side effects.
+Plan
+Start Simvastatin 40 mg daily today to decrease LDL, and increase HDL
+Check Lipid panel
+
+Misc.
+Plan
+CBC also ordered.  Labs to be done today.  
+RTC in 6 months.  Sooner if needed.
+
+Author:  IM_Doctor

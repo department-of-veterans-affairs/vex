@@ -1,0 +1,132 @@
+General Medical Clinic
+07/28/2008 13:00
+
+
+CC
+The patient wants a screening cardiac exercise stress test.
+
+Subjective
+The patient is a new patient that has been living in another state until recently.  He has several medical problems, but they are all currently well controlled on his current medication regimen.  The patient confirms being compliant with use of his medications and requests all meds be filled today.
+
+The patient also requests I order a cardiac exercise stress test.  His father died of an MI at the age of 53.  The patient denies angina and dyspnea.  He does not exercise much because his knee hurts when he walks.  He doesnt follow any special diet.
+
+Hypertension
+The patient only uses Hydrochlorothiazide for his HTN.  His BP has been well controlled.  He doesnt like to get his SBP below 130 because it makes him dizzy.  He denies light-headedness today.
+
+Parkinson disease
+The patient was diagnosed with Parkinson disease at the age of 69.  His disease has recently been well controlled on Carbidopa/levodopa 25/100 mg TID.  He has a tremor that is well tolerated. 
+
+Osteoarthritis
+The patient experiences mild knee pain from osteoarthritis on a daily basis, but is able to control this pain adequately with use of Acetaminophen.
+
+Benign prostatic hyperplasia
+The patient has significant BPH symptoms including urinary hesitancy, weak stream and nocturia (about 2 times per night).  However, he indicates this is pretty good for him and he does not want to increase, change or add medication for BPH at this time.
+
+Depression
+The patient indicates that he has been taking Citalopram for depression for as long as he can remember.  He had severe depression before starting Citalopram and is happy to continue that medication.  He denies SI and HI today.
+
+Hyperlipidemia
+The patient was recently told he had high cholesterol and should increase his simvastatin.  He didnt increase simvastatin because he wanted to try working on his diet first.  However, he hasnt changed his diet and is now willing to increase his dose of simvastatin if needed.  He is not fasting today but is willing to return for labs sometime in the next month.  Of note, the pt indicates he does not want to quit smoking right now but may be willing to discuss this in the future.
+
+
+Allergies
+NSAIDs: severe abdominal pain.
+
+
+PMH
+Hypertension
+Parkinson disease
+Depression
+Benign prostatic hyperplasia
+Osteoarthritis
+Hyperlipidemia
+Coronary Artery Disease
+
+PSurgHx
+none
+
+FamHx
+Mother died of CVA at age of 64
+Father died of MI at age 53
+
+
+SocHx
+Widower (wife died several years ago from breast cancer).
+Currently working at a small grocery store in town.
+Has 1 child that lives in another state.
+Denies alcohol and illicit drug use (has never used); he does smoke 1 ppd of cigarettes and has done so for about 40 years (40-pack-year history).
+
+
+Review of Systems
+All negative except as noted above.
+
+
+Objective
+VITALS:
+	SBP:139, DBP:83, Pulse:79, POx:95, Temp:99.2, RR:13, Weight:180, Height:73, BMI:24
+EXAM: 
+GEN: NAD, well developed and well groomed.
+HEENT: NCAT, EOMI, PERRLA, oropharynx is non-erythematous
+HEART: RRR no M/R/G
+LUNGS: CTAB no W/R/R
+ABD: soft, NT, ND, +BS
+EXT: no LE edema
+
+Assessment and Plan
+
+Hypertension
+Assessment
+Control of Hypertension is stable.
+Adequately controlled on HCTZ 12.5 mg; pt doesnt tolerate SBP below 130; his goal SBP is 130 to 145 and goal DBP is 70 to 90; BP within goal range today.
+Plan
+Check Chem14
+Start HCTZ 12.5 mg daily today to decrease SBP, and increase DBP
+Check CBC
+
+Parkinson disease
+Assessment
+Control of Parkinson disease is stable.
+Well controlled on current Sinemet regimen.  Bradykinesia and tremor bother patient about 3 times per week.
+Plan
+Start Sinemet 25/100 mg 1 tablet q8h today to decrease and Tremor (parkinsonian)
+
+Osteoarthritis
+Assessment
+Control of Osteoarthritis is stable.
+Adequately controlled with use of acetaminophen.  His knee pain is 3/10, which is within his goal range (0 to 4).
+Plan
+Start Acetaminophen 1000 mg daily today to decrease Knee Pain
+
+Benign prostatic hyperplasia
+Assessment
+Control of Benign prostatic hyperplasia is stable.
+IPSS-AUA score is 16 today, which is within the patients goal range.
+Plan
+Start Tamsulosin 0.4 mg daily today to decrease IPSS-AUA
+
+Depression
+Assessment
+Control of Depression is stable.
+Well controlled on Citalopram 40 mg daily.  PHQ-9 is 3 today.
+Plan
+Start Citalopram 40  mg daily today to decrease PHQ-9
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is stable.
+Due for lipid panel now.  Will likely need increased dose of simvastatin.  The pt is not ready to quit smoking per his report.
+Plan
+Start Simvastatin 40 mg daily today to decrease LDL, and increase HDL
+Check Lipid panel
+
+Misc.
+Assessment
+CV risk factors: pt is at moderate risk of CAD.
+
+Plan
+CV risk factors: given pts request and multiple risk factors for cardiovascular disease, cardiac exercise stress test ordered.
+Will also check CBC now.
+RTC 6 months.
+
+
+Author:  IM_Doctor

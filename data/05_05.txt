@@ -1,0 +1,128 @@
+General Medical Clinic
+11/05/2008 13:00
+
+
+CC
+Follow up Diabetes
+
+Subjective
+Patient came in earlier today and requested orders for labs he is due for.  He was fasting for labs today.
+
+Depression
+The patient indicates his mood is much improved since increasing Citalopram to 40 mg daily and he would like to continue the medication at this dose.  He indicates he has sufficient energy throughout the day and is sleeping well through the night.  He has been seeing psychology for counseling and thinks this is helping as well.
+
+
+Diabetes mellitus type 2
+The patient reports being compliant with use of Metformin.  He is exercising occasionally (walks 1-3 miles once or twice a week).   He admits to eating too many sugary and fatty foods on the weekends but does well with his diet on the week days.
+
+
+Hypertension
+No light headedness.
+
+Coronary Artery Disease
+No angina or shortness of breath.
+
+
+Benign prostatic hyperplasia
+The pt reports waking to urinate at most once per night.
+
+
+
+Allergies
+NKDA
+
+PMH
+HYPERTENSION NOS
+Diabetes Mellitus
+Coronary Artery Disease
+Benign prostatic hyperplasia
+Hyperlipidemia
+Depression
+
+
+PSurgHx
+Appendectomy at age 7 years. 
+
+FamHx
+Mother: Diabetes Mellitus 
+Father: Coronary Artery Disease
+Grandfather: Dementia
+ 
+
+SocHx
+Previous smoker, 1/2 ppd X 10 years (5 pack year history), quit 30 years ago.
+Occasional alcohol use (no more than 3 drinks per day)
+No illicit drug use ever
+Divorced, no children, works at hardware store.
+
+Medications
+Citalopram 40 mg PO daily #90, 3 refills
+Metformin 500 mg PO BID #180, 3 refills
+Hydrochlorothiazide 12.5 mg PO daily #90, 3 refills
+Lisinopril 20 mg PO daily #90, 3 refills
+Metoprolol 25 mg PO BID #180, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+Simvastatin 40 mg PO daily #90, 3 refills
+Tamsulosin 0.4 mg PO daily #90, 3 refills
+
+Objective
+VITALS:
+	SBP:112, DBP:73, Pulse:75, POx:97, Temp:99.1, RR:14, Weight:200, Height:68, BMI:30
+EXAM: 
+GEN: NAD
+HEART: RRR no M/R/G
+FEET: normal monofilament test and DP pulses bilaterally; no abnormal lesions.
+LUNGS: CTAB no W/R/R
+NECK: normal thyroid, no lymphadenopathy.
+
+Assessment and Plan
+
+Depression
+Assessment
+Control of Depression is improved.
+PHQ-9 score is now within goal range (PHQ-9 = 6 today) and pt is tolerating 40 mg Citalopram without side effects.
+Plan
+Continue Citalopram 40 mg daily to decrease PHQ-9
+Continue counseling
+
+
+Diabetes mellitus type 2
+Assessment
+Control of Diabetes mellitus type 2 is stable.
+Not adequately controlled.  The patient agrees to set his goal HbA1c to 6.8 to 7.5.  His HbA1c has increased from 6.9 to 8.3 over the last year.  No signs of Peripheral neuropathy or Nephropathy.  Pt is due for diabetic eye exam.
+Plan
+Increase Metformin from 500 mg BID to 1000 mg BID today to decrease HbA1c
+Referred patient to ophthalmology for diabetic eye exam.
+
+
+Hypertension
+Assessment
+Control of Hypertension is stable.
+Patients HTN well controlled with HCTZ, lisinopril, and metoprolol.  Chem14 from 11/5/08 WNL.
+Plan
+Continue HCTZ 12.5 mg daily to decrease DBP and SBP
+Continue Metoprolol 25 mg BID to decrease DBP and SBP
+Continue Lisinopril 20 mg daily to decrease DBP and SBP
+
+
+
+Coronary Artery Disease
+Assessment
+Control of Coronary Artery Disease is stable.
+CAD well controlled.  Patient without angina (0/10) today. Has been on 81mg aspirin, lisinopril, and metoprolol and reports no medication side effects.  
+Plan
+Continue Aspirin 81 mg daily to  prevent MI
+
+Benign prostatic hyperplasia
+Assessment
+Control of Benign prostatic hyperplasia is stable.
+BPH symptoms unchanged over last year.; Tolerating medication.
+Plan
+Continue Tamsulosin 0.4 mg daily to decrease IPSS-AUA
+
+Misc.
+Plan
+RTC 6 months for DM follow up.
+
+
+Author:  IM_Doctor

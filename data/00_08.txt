@@ -1,0 +1,130 @@
+General Medical Clinic
+07/09/2009 13:00
+
+
+CC
+Follow up all medical conditions.
+
+Subjective
+Pt called this morning and asked for lab orders so he could get labs done prior to our visit.
+
+Hyperlipidemia
+Tolerating Niacin and gemfibrozil fine although still gets some flushing with use of Niacin.
+
+
+Diabetes mellitus type 2
+The patient has not noted any lesions on his feet.  He checks his feet for lesions daily.  He denies GI upset.
+
+
+Hypertension
+The patient has not been checking his BP at home.  He denies light-headedness.
+
+
+Benign prostatic hyperplasia
+No urinary complaints today.  He gets up to urinate at night at most once per night. 
+
+
+Depression
+No suicidal ideation.  
+
+
+
+Allergies
+Simvastatin: caused severe muscle aches.
+
+PMH
+Diabetes mellitus type 2 
+Hyperlipidemia
+Benign prostatic hyperplasia
+Depression
+
+PSurgHx
+Appendectomy as a child.
+
+FamHx
+None significant
+
+SocHx
+Non-smoker, no alcohol use, no illicit drug use.
+Retired banker.
+No children.
+Divorced.
+
+Medications
+Niacin 1000 mg PO daily #90, 3 refills
+Gemfibrozil 600 mg PO BID #180, 3 refills
+Metformin 1000 mg PO BID #180, 3 refills
+Lisinopril 20 mg PO daily #90, 3 refills
+Chlorthalidone 12.5 mg PO daily #90, 3 refills
+Terazosin 2 mg PO daily #90, 3 refills
+Citalopram 40 mg PO daily #90, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+
+Objective
+VITALS:
+	SBP:121, DBP:71, Pulse:76, POx:93, Temp:98.4, RR:15, Weight:215, Height:68, BMI:33
+EXAM: 
+GEN: NAD, well groomed, well developed.
+HEAD: NCAT
+NECK: normal thyroid, no lymphadenopathy
+HEART: RRR no M/R/G
+LUNGS: CTAB no W/R/R
+ABD: soft, NT, ND
+EXT: no LE edema
+FEET: normal monofilament test bilaterally, no abnormal lesions on feet, normal DP pulses bilaterally.
+PSYCH: normal mood and behavior.
+
+Assessment and Plan
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is stable.
+Well controlled on Gemfibrozil and Niacin (doesnt tolerate statins).  LDL within goal range of less than 70 today.  HDL also in goal range (greater than 40).  Pt still getting some flushing, but only a couple times per week, which is acceptable to the patient.
+Plan
+Continue Niacin ER 1000 mg daily to decrease LDL and HDL
+Continue Gemfibrozil 600 mg BID to decrease LDL and HDL
+Continue Aspirin 81 mg daily to decrease Flushing
+Lipid panel results reviewed with pt today (LDL and HDL are within goal range).
+
+
+Diabetes mellitus type 2
+Assessment
+Control of Diabetes mellitus type 2 is stable.
+HbA1c and microalbumin/creatinine ratio are both within goal range.  Foot exam is normal today.
+Plan
+Continue Metformin 1000 mg BID to decrease HbA1c
+HbA1c and microalbumin/creatinine ratio results reviewed with pt today (both within goal range).
+
+
+Hypertension
+Assessment
+Control of Hypertension is stable.
+Well controlled on Lisinopril and Chlorthalidone without light-headedness.  Potassium and creatinine are within normal limits today.
+Plan
+Continue Lisinopril 20 mg daily to decrease SBP and DBP
+Continue Chlorthalidone 12.5 mg daily to decrease SBP and DBP
+Chem 14 results reviewed with patient (normal results).
+
+
+Benign prostatic hyperplasia
+Assessment
+Control of Benign prostatic hyperplasia is stable.
+Well controlled on Terazosin 2 mg.  IPSS-AUA score (3 today) is within goal range (0 to 6) and stable.  No light-headedness.
+Plan
+Continue Terazosin 2 mg daily to decrease IPSS-AUA
+
+Depression
+Assessment
+Control of Depression is stable.
+PHQ-9 result is 5 today, which is within patients goal range of 0 to 10.
+Plan
+Continue Citalopram 40 mg daily to decrease PHQ-9
+
+Misc.
+Plan
+Obesity: I encouraged patient to increase activity by walking 30 to 60 minutes 5 days per week.  I encouraged him to decrease his portion sizes to lower his calorie intake.  The patient agrees to set a goal to lose 15 pounds in the next few months.
+
+RTC 6 months.
+
+
+Author:  IM_Doctor

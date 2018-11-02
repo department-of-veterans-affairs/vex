@@ -1,0 +1,73 @@
+General Medical Clinic
+06/10/2008 13:00
+
+
+CC
+Follow up elevated BP.
+
+Subjective
+
+
+
+Hypertension
+The patients blood pressure is still elevated.  He reports his home BP readings as follows: average = about 134/79; high = about 147/92; low = about 129/74.  He denies light-headedness.
+
+
+
+Allergies
+Simvastatin: caused severe muscle aches.
+
+PMH
+Diabetes mellitus type 2 
+Hyperlipidemia
+Benign prostatic hyperplasia
+Depression
+
+PSurgHx
+Appendectomy as a child.
+
+FamHx
+None significant
+
+SocHx
+Non-smoker, no alcohol use, no illicit drug use.
+Retired banker.
+No children.
+Divorced.
+
+Medications
+Niacin 1000 mg PO daily #90, 3 refills
+Gemfibrozil 600 mg PO BID #180, 3 refills
+Metformin 1000 mg PO BID #180, 3 refills
+Lisinopril 20 mg PO daily #90, 3 refills
+Terazosin 2 mg PO daily #90, 3 refills
+Citalopram 40 mg PO daily #90, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+
+Objective
+VITALS:
+	SBP:137, DBP:88, Pulse:73, POx:97, Temp:98.4, RR:14, Weight:215, Height:68, BMI:33
+EXAM: 
+GEN: NAD
+HEART: RRR no M/R/G
+EXT: no LE edema
+
+Assessment and Plan
+
+Hypertension
+Assessment
+Control of Hypertension is improved.
+Per home and clinic readings, BP still not in goal range of less than 130/80.  Pt is tolerating Lisinopril (no light-headedness).  Potassium and creatinine normal when last checked (about 2 months ago).
+Plan
+Check Chem8
+Start Chlorthalidone 12.5 mg daily today to decrease SBP and DBP
+Continue Lisinopril 20 mg daily to decrease SBP and DBP
+Pt to get chem8 lab done in about 1-2 weeks.
+
+
+Misc.
+Plan
+RTC one month.
+
+
+Author:  IM_Doctor

@@ -1,0 +1,20 @@
+General Medical Telephone
+07/07/2009 17:00
+
+
+Progress - Misc
+Caller: Provider
+Concerning: Lab results
+Urgency: non-urgent
+Provider: Doctor1
+Patient: PatientLast, PatientFirst
+Next Scheduled Appointment: none
+
+Assessment and Plan
+
+
+Misc.
+Plan
+I called patient and informed her that all her labs were within her goal ranges.
+
+Author:  IM_Doctor

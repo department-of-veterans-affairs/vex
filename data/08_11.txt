@@ -1,0 +1,26 @@
+General Medical Telephone
+03/31/2010 09:00
+
+
+Progress - Misc
+Caller: Patient
+Concerning: light-headedness
+Urgency: urgent
+Provider: Doctor1
+Patient: PatientLast, PatientFirst
+Next Scheduled Appointment: none
+
+CC
+Light-headedness
+
+Subjective
+The patient complains of frequent light-headedness that has been progressively worsening over the last few months.
+
+Assessment and Plan
+
+
+Misc.
+Plan
+Provider informed of patients complaint of light-headedness.  Provider requests the patient be seen in clinic today or tomorrow and that he have labs done prior to that visit.  CBC and Chem14 ordered.  Pt given these instructions.
+
+Author:  IM_Nurse

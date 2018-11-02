@@ -1,0 +1,80 @@
+General Medical Clinic
+01/29/2010 13:00
+
+
+CC
+F/u Parkinson disease.
+
+Subjective
+
+
+
+Parkinson disease
+Tremor and bradykinesia improved slightly, but still causing significant limitation.
+
+
+
+Allergies
+NSAIDs: severe abdominal pain.
+
+
+PMH
+Hypertension
+Parkinson disease
+Depression
+Benign prostatic hyperplasia
+Osteoarthritis
+Hyperlipidemia
+Coronary Artery Disease
+
+PSurgHx
+none
+
+FamHx
+Mother died of CVA at age of 64
+Father died of MI at age 53
+
+
+SocHx
+Widower (wife died several years ago from breast cancer).
+Currently working at a small grocery store in town.
+Has 1 child that lives in another state.
+Denies alcohol and illicit drug use (has never used); he does smoke 1 ppd of cigarettes and has done so for about 40 years (40-pack-year history).
+
+
+Medications
+Hydrochlorothiazide 12.5 mg PO daily #90, 3 refills
+Carbidopa +levodopa 25mg/100mg tablet  1 Tablet PO q4h #540, 3 refills
+Acetaminophen 1000 mg PO daily #90, 3 refills
+Acetaminophen + hydrocodone bitartrate 5 mg PO BID #60, 5 refills
+Tamsulosin 0.8 mg PO daily #90, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+Citalopram 40  mg PO daily #90, 3 refills
+Simvastatin 80 mg PO daily #90, 3 refills
+
+Review of Systems
+As noted above.
+
+
+Objective
+VITALS:
+	SBP:132, DBP:73, Pulse:70, POx:94, Temp:97.9, RR:16, Weight:183, Height:73, BMI:24
+EXAM:
+GEN: NAD
+NEURO: tremor and bradykinesia slightly improved.
+
+Assessment and Plan
+
+Parkinson disease
+Assessment
+Control of Parkinson disease is improved.
+Only mild improvement since increasing dose of Sinemet earlier this month.
+Plan
+Increase Sinemet 25/100 mg from 1 Tablet q4h to 2 Tablet q6h today to decrease,, Tremor (parkinsonian) and Tremor (parkinsonian)
+
+Misc.
+Plan
+RTC 1 month.
+
+
+Author:  IM_Doctor

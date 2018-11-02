@@ -1,0 +1,60 @@
+Ophthalmology Clinic
+11/25/2009 13:00
+
+
+CC
+Diabetic eye exam.
+
+Subjective
+Diabetes diagnosed about 5  years ago.  Well controlled on Metformin.  No history of eye problems.
+
+
+Allergies
+NKDA
+
+PMH
+1. Breast cancer (in remission)
+2. Hypertension
+3. Hyperlipidemia
+4. Diabetes mellitus type 2
+5. Chronic renal impairment
+
+PSurgHx
+Bilateral Mastectomy in 2006
+
+FamHx
+Father and mother both died of heart problems in their early 60s.  No cancer.
+
+SocHx
+The patient is a lifetime non-user of tobacco, alcohol and illicit drugs.  She is a widow.  She has 10 children (all are living and well).  Currently she lives close by with her son.
+
+Medications
+Diltiazem 240 mg PO daily #90, 3 refills
+Metoprolol 25 mg PO BID #180, 3 refills
+Lisinopril 40 mg PO daily #90, 3 refills
+Hydrochlorothiazide 12.5 mg PO daily #90, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+Metformin 1000 mg PO BID #180, 3 refills
+Simvastatin 40 mg PO daily #90, 3 refills
+
+Review of Systems
+EYES: the patient indicates he has been using reading glasses for about 2 years.
+
+Objective
+VITALS:
+	SBP:120, DBP:66, Pulse:56, POx:95, Temp:97.8, RR:14, Weight:145, Height:62, BMI:27
+VITALS
+
+EXAM: 
+EYES: EOMI, PERRLA; both eyes dilated and fundi examined; both fundi are completely normal with no sign of diabetic retinopathy.
+
+Assessment and Plan
+
+
+Misc.
+Assessment
+No diabetic retinopathy.
+Plan
+Return for diabetic eye exam yearly.
+
+Author:  Oph_Doctor

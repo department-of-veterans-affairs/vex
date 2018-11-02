@@ -1,0 +1,127 @@
+General Medical Clinic
+12/08/2009 13:00
+
+
+CC
+F/U chronic problems.
+
+Subjective
+
+Hypertension
+Pt reports mild light-headedness; he doesnt think it is any worse with standing and thinks he might just be a little dehydrated because he hasnt had much to drink or eat today.
+
+
+Parkinson disease
+Tremor and bradykinesia are adequately controlled per pts perspective.
+
+Osteoarthritis
+The patient reports gradually worsening knee pain over the last few months.  Acetaminophen is no longer sufficient to control the pain.  Knee pain is 6/10 today.  He denies falls and recent trauma.  He is still able to get around fine without an assistive device, but it hurts a lot on a daily basis.  He is interested in trying a stronger pain medication for this.  He does not use NSAIDs because when he takes that kind of medication he gets severe abd pain.  Of note, the pt is not interested in knee surgery/replacement at this time.
+
+Benign prostatic hyperplasia
+When pt forgets to take Tamsulosin even one day he has troubles urinating (weak stream, increased nocturia).  However, as long as he takes his Tamsulosin, he is satisfied with his current condition.
+
+Coronary Artery Disease
+No angina, no dyspnea on exertion. The patient says hes still not ready to quit smoking.
+
+Depression
+Stable.  No significant depression episodes since last visit.
+
+
+Allergies
+NSAIDs: severe abdominal pain.
+
+
+PMH
+Hypertension
+Parkinson disease
+Depression
+Benign prostatic hyperplasia
+Osteoarthritis
+Hyperlipidemia
+Coronary Artery Disease
+
+PSurgHx
+none
+
+FamHx
+Mother died of CVA at age of 64
+Father died of MI at age 53
+
+
+SocHx
+Widower (wife died several years ago from breast cancer).
+Currently working at a small grocery store in town.
+Has 1 child that lives in another state.
+Denies alcohol and illicit drug use (has never used); he does smoke 1 ppd of cigarettes and has done so for about 40 years (40-pack-year history).
+
+
+Medications
+Hydrochlorothiazide 12.5 mg PO daily #90, 3 refills
+Carbidopa +levodopa 25mg/100mg tablet  1 Tablet PO q6h #360, 3 refills
+Acetaminophen 1000 mg PO daily #90, 3 refills
+Tamsulosin 0.8 mg PO daily #90, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+Citalopram 40  mg PO daily #90, 3 refills
+Simvastatin 80 mg PO daily #90, 3 refills
+
+Review of Systems
+As noted above.
+
+
+Objective
+VITALS:
+	SBP:135, DBP:81, Pulse:60, POx:96, Temp:98.1, RR:16, Weight:183, Height:73, BMI:24
+EXAM: 
+GEN: mild distress (knee pain) when goes from chair to exam table.
+KNEES: no swelling, redness or excessive warmth noted bilaterally; pt is non-tender throughout; pt does experience moderate pain with extension and flexion against resistance.  
+
+Assessment and Plan
+
+Hypertension
+Assessment
+Control of Hypertension is stable.
+Patient has been having light-headedness about twice a week; may be from dehydration as patient suggested.
+Plan
+Continue HCTZ 12.5 mg daily to decrease SBP, and increase DBP
+Check Chem14
+
+Parkinson disease
+Assessment
+Control of Parkinson disease is stable.
+Adequately controlled on current regimen of Sinemet.
+Plan
+Continue Sinemet 25/100 mg 1 Tablet q6h to decrease and Tremor (parkinsonian)
+
+Osteoarthritis
+Assessment
+Control of Osteoarthritis is worse.
+Knee pain not adequately controlled with use of Acetaminophen alone.  Current pain is 6/10; pts goal range for knee pain is 0 to 4.  Pt not interested in surgery at this time.
+Plan
+Continue Acetaminophen 1000 mg daily to decrease Knee Pain
+Continue Lortab 5 mg BID to decrease Knee Pain
+
+Benign prostatic hyperplasia
+Assessment
+Control of Benign prostatic hyperplasia is stable.
+Adequately controlled; IPSS-AUA stable at 14.
+Plan
+Continue Tamsulosin 0.8 mg daily to decrease  IPSS-AUA, and decrease  post-void residual volume
+
+Coronary Artery Disease
+Assessment
+Control of Coronary Artery Disease is stable.
+The pt is not ready to quit smoking per his report.
+Plan
+Continue Aspirin 81 mg daily to  prevent MI
+
+Depression
+Assessment
+Control of Depression is stable.
+Plan
+Continue Citalopram 40  mg daily to decrease PHQ-9
+
+Misc.
+Plan
+RTC 1 month.  Pt to get labs ordered today prior to next visit.
+
+Author:  IM_Doctor

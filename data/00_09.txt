@@ -1,0 +1,121 @@
+General Medical Clinic
+01/21/2010 13:00
+
+
+CC
+Follow up all medical conditions.
+
+Subjective
+
+Hyperlipidemia
+Patient notes he has had more flushing with use of Niacin; however, he believes he can tolerate this.
+
+
+Diabetes mellitus type 2
+No nausea or bloating.  Pt has been doing better with diet and exercise and has even lost about 5 pounds since last visit.
+
+
+Hypertension
+The patient checked his BP at the supermarket last week and noted it to be about 135/95.  However, when he rechecked it about 10 minutes later is was only 124/78.  He has had no light-headedness.
+
+
+Benign prostatic hyperplasia
+No urinary complaints.  Gets up to urinate at night very rarely.
+
+
+Depression
+Doing well.  No suicidal ideation.  
+
+
+
+Allergies
+Simvastatin: caused severe muscle aches.
+
+PMH
+Diabetes mellitus type 2 
+Hyperlipidemia
+Benign prostatic hyperplasia
+Depression
+
+PSurgHx
+Appendectomy as a child.
+
+FamHx
+None significant
+
+SocHx
+Non-smoker, no alcohol use, no illicit drug use.
+Retired banker.
+No children.
+Divorced.
+
+Medications
+Niacin 1000 mg PO daily #90, 3 refills
+Gemfibrozil 600 mg PO BID #180, 3 refills
+Metformin 1000 mg PO BID #180, 3 refills
+Lisinopril 20 mg PO daily #90, 3 refills
+Chlorthalidone 12.5 mg PO daily #90, 3 refills
+Terazosin 2 mg PO daily #90, 3 refills
+Citalopram 40 mg PO daily #90, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+
+Objective
+VITALS:
+	SBP:120, DBP:70, Pulse:71, POx:97, Temp:99.3, RR:16, Weight:209, Height:68, BMI:32
+"EXAM: 
+GEN: NAD, well groomed, well developed.
+HEAD: NCAT
+NECK: normal thyroid, no lymphadenopathy
+HEART: RRR no M/R/G
+LUNGS: CTAB no W/R/R
+ABD: soft, NT, ND
+EXT: no LE edema
+FEET: normal monofilament test bilaterally, no abnormal lesions on feet, normal DP pulses bilaterally.
+PSYCH: normal mood and behavior."
+
+Assessment and Plan
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is stable.
+Pt has more flushing from Niacin now (4 times per week), but pt thinks he can tolerate this okay.
+Plan
+Continue Niacin ER 1000 mg daily to decrease LDL and HDL
+Continue Gemfibrozil 600 mg BID to decrease LDL and HDL
+Continue Aspirin 81 mg daily to decrease Flushing
+
+Diabetes mellitus type 2
+Assessment
+Control of Diabetes mellitus type 2 is stable.
+Doing well on diet and exercise.
+Plan
+Continue Metformin 1000 mg BID to decrease HbA1c
+
+Hypertension
+Assessment
+Control of Hypertension is stable.
+BP well controlled with Lisinopril and Chlorthalidone
+Plan
+Continue Lisinopril 20 mg daily to decrease SBP and DBP
+Continue Chlorthalidone 12.5 mg daily to decrease SBP and DBP
+
+Benign prostatic hyperplasia
+Assessment
+Control of Benign prostatic hyperplasia is stable.
+Well controlled on Terazosin 2 mg.
+Plan
+Continue Terazosin 2 mg daily to decrease IPSS-AUA
+
+Depression
+Assessment
+Control of Depression is stable.
+Seems to be well controlled on Citalopram 40 mg daily.
+Plan
+Continue Citalopram 40 mg daily to decrease PHQ-9
+
+Misc.
+Plan
+RTC 6 months.
+
+
+Author:  IM_Doctor

@@ -1,0 +1,17 @@
+Radiology X-ray
+12/29/2009 14:00
+
+
+Objective
+EXAM: chest X-ray (PA and Lateral)
+
+CLINICAL HISTORY: Dyspnea and orthopnea.
+
+FINDINGS: 
+LUNGS: diffuse opacities noted in bases bilaterally; most consistent with pulmonary edema.
+BONES: no fracture dislocation or abnormal lesions noted.
+MEDIASTINUM: normal width and contour.
+
+IMPRESSION: Exam most consistent with diffuse pulmonary edema.
+
+Author:  Rad_Doctor

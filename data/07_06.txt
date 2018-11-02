@@ -1,0 +1,117 @@
+General Medical Clinic
+05/14/2010 13:00
+
+
+CC
+Depression
+
+Subjective
+
+Depression
+The patient informs me that he has been feeling quite depressed lately.  He lost his job about 3 months ago.  He has been trying to get a job, but for the last 2 months he has been struggling to even get out of bed because he feels so depressed.  He sleeps about 16 hours per day.  His appetite is decreased - he thinks he has lost about 10 pounds.  He does not enjoy any of his previous hobbies and finds it hard to concentrate on looking for work.  He feels guilty for not working harder to find a job.    He denies suicidal ideation.  He is interested in medication for his symptoms but refuses to go to counseling at this time.
+
+Hypertension
+The patient denies light-headedness.
+
+Allergic rhinitis
+The patient indicates his hay fever is currently well controlled (no itchy eyes or throat and no nasal congestion).  He is using his Cetirizine daily.
+
+Osteoarthritis
+Knee pain is well controlled.  No knee pain today.
+
+
+Allergies
+NKDA
+
+PMH
+Hypertension
+Allergic rhinitis
+Acute sinusitis
+Osteoarthritis
+
+PSurgHx
+None
+
+FamHx
+Mother died of MI at 64 years of age. 
+
+SocHx
+Smoker (20 pack year history - 1/2 PPD).
+No alcohol use.
+No illicit drug use.
+Unemployed.
+
+Medications
+Lisinopril 20 mg PO daily #90, 3 refills
+Hydrochlorothiazide 12.5 mg PO daily #90, 3 refills
+Cetirizine 10 mg PO daily #90, 3 refills
+Amoxicillin 875 mg PO BID #20, 0 refills
+Acetaminophen 1000 mg PO q6h PRN #120, 11 refills
+Sodium chondroitin sulfate 400 mg PO q8h #270, 3 refills
+Glucosamine 500 mg PO q8h #270, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+
+Review of Systems
+ENDOCRINE: no c/o dry skin, brittle nails or hair, palpitations, constipation, or frequent stools.
+
+Objective
+VITALS:
+	SBP:128, DBP:82, Pulse:72, POx:93, Temp:99, RR:14, Weight:172, Height:68, BMI:26
+
+EXAM
+GEN: NAD, appears a little disheveled.
+NECK: normal thyroid.
+HEART: RRR no M/R/G
+LUNGS: CTAB no W/R/R
+EXT: no LE edema
+NEURO: CNII-XII intact, normal gait.
+PSYCH: pt appears sad, but is encouraged by the prospect of starting medication for his depression; his speech is a little delayed, but otherwise his speech and behavior are appropriate.
+
+Depression
+PHQ-9 is 23, much higher than goal range of 0 to 10.  Pts condition warrants medical therapy.
+
+
+Assessment and Plan
+
+Depression
+Assessment
+New diagnosis of Depression.
+PHQ-9 is very high (PHQ-9 = 23).  Pts condition warrants medical therapy.
+Plan
+Check TSH
+Start Citalopram 20 mg daily today to decrease PHQ-9
+Check CBC
+Recommended counseling; pt refused.
+
+Hypertension
+Assessment
+Control of Hypertension is stable.
+Tolerating HCTZ/Lisinopril 12.5/20 mg well; BP within goal range of less than 140/90.
+Plan
+Check Chem14
+Continue HCTZ 12.5 mg daily to decrease SBP and DBP
+Continue Aspirin 81 mg daily to prevent  MI
+Continue Lisinopril 20 mg daily to decrease DBP and SBP
+
+Allergic rhinitis
+Assessment
+Control of Allergic rhinitis is stable.
+Well controlled on cetirizine 10 mg daily.
+Plan
+Continue Cetirizine 10 mg daily to decrease Nasal congestion (finding)
+
+Osteoarthritis
+Assessment
+Control of Osteoarthritis is stable.
+No knee pain today.
+Plan
+Continue Glucosamine 500 mg q8h to decrease Knee Pain
+Continue Chondroitin sulfate 400 mg q8h to decrease Knee Pain
+Continue Acetaminophen 1000 mg q6h PRN to decrease Knee Pain
+
+Misc.
+Plan
+Lipid panel just before next visit.
+RTC in one month.
+
+Author:  IM_Doctor

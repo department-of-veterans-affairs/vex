@@ -1,0 +1,125 @@
+General Medical Clinic
+01/14/2010 13:00
+
+
+CC
+Follow up all chronic problems.
+
+Subjective
+Pt informs me that he went to the lab this morning and got all the labs done that I ordered for him.  He indicates he is felling fine today.
+
+Hypertension
+Pt has not been checking his BP on his own, but thinks it has been well controlled.  No c/o light-headedness.  
+
+
+Diabetes mellitus type 2
+Has not been walking as much as before, but still getting out to walk about 3 times per week for about 30 minutes.
+
+
+Coronary Artery Disease
+No angina.  
+
+
+Osteoarthritis
+Pt has not had much pain in knees lately.
+
+
+
+Allergies
+NKDA
+
+
+PMH
+Hypertension
+Osteoarthritis
+Coronary Artery Disease
+Diabetes mellitus type 2
+History of cerebrovascular accident without residual deficits
+Hyperlipidemia
+
+PSurgHx
+1. Cardiac stent placed in 2005
+
+
+FamHx
+non-contributory
+
+
+SocHx
+no tobacco, alcohol or illicit drug use
+
+
+Medications
+Hydrochlorothiazide 12.5 mg PO daily #90, 3 refills
+Lisinopril 20 mg PO daily #90, 3 refills
+Metformin 500 mg PO BID #180, 3 refills
+Metoprolol 25 mg PO BID #120, 3 refills
+Acetaminophen 1000 mg PO BID PRN #180, 3 refills
+Simvastatin 80 mg PO daily #90, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+
+Review of Systems
+AS noted above.
+
+
+Objective
+VITALS:
+	SBP:121, DBP:69, Pulse:69, POx:93, Temp:98.3, RR:12, Weight:195, Height:70, BMI:28
+EXAM:
+GEN: NAD, well developed and well nourished.
+HEART: RRR no M/R/G.
+LUNGS: CTAB no W/R/R.
+ABD: soft, NT, ND, +BS
+EXT: no LE edema
+FEET: normal monofilament test bilaterally; normal DP pulses bilaterally; no abnormal lesions noted.
+
+Assessment and Plan
+
+Hypertension
+Assessment
+Control of Hypertension is stable.
+Well controlled on HCTZ, lisinopril and metoprolol.  BP, creat and potassium are all within goal range today.
+Plan
+Check Chem14
+Continue HCTZ 12.5 mg daily to decrease DBP and SBP
+Continue Lisinopril 20 mg daily to decrease SBP and DBP
+Continue Metoprolol 25 mg BID to decrease SBP and DBP
+
+Diabetes mellitus type 2
+Assessment
+Control of Diabetes mellitus type 2 is stable.
+HbA1c and microalbumin/creat ratio are within normal limits.
+Plan
+Check HbA1c
+Continue Metformin 500 mg BID to decrease HbA1c and Glucose
+Check Microalbumin/Creat.
+
+Coronary Artery Disease
+Assessment
+Control of Coronary Artery Disease is stable.
+No concerning symptoms. Taking daily aspirin.
+Plan
+Continue Aspirin 81 mg daily to prevent  MI
+
+Osteoarthritis
+Assessment
+Control of Osteoarthritis is stable.
+Well controlled.  Only having minor, occasional knee pain.
+Plan
+Continue Acetaminophen 1000 mg BID PRN to decrease Knee Pain
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is stable.
+Lipids are within patients goal range.
+Plan
+Continue Simvastatin 80 mg daily to decrease LDL, and increase HDL
+Check Lipid panel
+
+Misc.
+Plan
+CBC also ordered today (normal).
+RTC 6 months.  Chem14, CBC and HbA1c just before next visit.
+
+
+Author:  IM_Doctor

@@ -1,0 +1,47 @@
+General Medical Telephone
+11/18/2009 17:00
+
+
+Progress - Misc
+Caller: Provider
+Concerning: Lab results
+Urgency: non-urgent
+Provider: Doctor1
+Patient: PatientLast5, PatientFirst5
+Next Scheduled Appointment: none
+
+Assessment and Plan
+
+Hypertension
+Assessment
+Control of Hypertension is stable.
+Potassium and creatinine are WNL.
+Plan
+Continue HCTZ 25 mg daily to decrease SBP and DBP
+Continue Amlodipine 5 mg daily to decrease SBP and DBP
+Continue Lisinopril 20 mg daily to decrease SBP and DBP
+Continue Triamterene 50 mg daily to decrease SBP and DBP, and increase Potassium
+
+Diabetes mellitus type 2
+Assessment
+Control of Diabetes mellitus type 2 is stable.
+HbA1c is 7 today, which is within goal range of 6.5 to 7.5. Microalbumin/creatinine ratio is WNL.
+Plan
+Continue Aspirin 81 mg daily to prevent  MI
+Continue Glipizide 5 mg daily to decrease HbA1c
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is worse.
+LDL is above goal range.  AST is WNL.
+Plan
+Increase Simvastatin from 40 mg daily to 80 mg daily today to decrease LDL, and increase HDL
+Pt informed of lab results and instructed to increase simvastatin to 80 mg daily.
+
+
+Misc.
+Plan
+RTC 2-3 months.
+
+
+Author:  IM_Doctor

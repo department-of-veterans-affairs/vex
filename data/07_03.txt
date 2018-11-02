@@ -1,0 +1,79 @@
+General Medical Clinic
+06/25/2008 13:00
+
+
+CC
+F/U HTN
+
+
+Subjective
+Pt stopped by the lab for blood work this morning.
+
+
+
+Hypertension
+The patient denies light headedness.  His CV risk factors include Age, HTN, FH and Smoker.
+
+
+Allergies
+NKDA
+
+PMH
+1. Osteoarthritis
+2. Hypertension
+3. Allergic rhinitis
+
+PSurgHx
+None
+
+FamHx
+Mother died of MI at 64 years of age. 
+
+SocHx
+Smoker (20 pack year history - 1/2 PPD).
+No alcohol use.
+No illicit drug use.
+Works in construction.
+
+Medications
+Lisinopril 20 mg PO daily #90, 3 refills
+Hydrochlorothiazide 12.5 mg PO daily #90, 3 refills
+Cetirizine 10 mg PO daily #90, 3 refills
+Acetaminophen 1000 mg PO q6h PRN #120, 11 refills
+Sodium chondroitin sulfate 400 mg PO q8h #270, 3 refills
+Glucosamine 500 mg PO q8h #270, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+
+Review of Systems
+As noted above.
+
+
+Objective
+VITALS:
+	SBP:129, DBP:68, Pulse:87, POx:95, Temp:98.8, RR:16, Weight:184, Height:68, BMI:28
+VITALS
+
+EXAM
+GEN: NAD, well developed and well nourished.
+HEART: RRR no M/R/G
+
+Assessment and Plan
+
+Hypertension
+Assessment
+Control of Hypertension is improved.
+Well controlled on HCTZ/Lisinopril 12.5/20 mg.  BP now within goal range of less than 140/90.
+Plan
+Continue Aspirin 81 mg daily to prevent  MI
+Continue HCTZ 12.5 mg daily to decrease SBP and DBP
+Continue Lisinopril 20 mg daily to decrease DBP and SBP
+
+Misc.
+Assessment
+Labs are all within goal range, including the patients lipid panel.  The patients goal LDL is 130 given his Framingham 10-year risk of 10%.
+
+Plan
+RTC one year, sooner if worsens.
+
+
+Author:  IM_Doctor

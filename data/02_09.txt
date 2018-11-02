@@ -1,0 +1,148 @@
+General Medical Clinic
+01/21/2010 13:00
+
+
+CC
+Sinus pain/pressure; F/U hyperlipidemia.
+
+Subjective
+Pt got his labs before our visit this morning (Chem14 and lipid panel were ordered).
+
+Chronic sinusitis
+The patient c/o nasal congestion as well as sinus pain and pressure X about 10 days.  No fever, dyspnea or cough.
+
+
+Allergic rhinitis
+The patient denies itchy eyes and itchy throat; he does have nasal congestion.
+
+
+Hypertension
+No light-headedness.  
+
+
+Diabetes mellitus type 2
+Pt indicates he has started trying to exercise more.  He walks about 20 minutes 1-2 times per week.
+
+
+Chronic obstructive pulmonary disease
+The patient gets mildly short of breath with activity.
+
+
+Hyperlipidemia
+The pt is tolerating higher dose of simvastatin with no significant side effects.
+
+
+
+Allergies
+beta blocker: bradycardia and light headedness
+Metformin: nausea.
+
+PMH
+Hypertension
+Diabetes mellitus type 2
+Chronic obstructive pulmonary disease 
+Chronic sinusitis
+Allergic rhinitis
+Hyperlipidemia
+
+PSurgHx
+None.
+
+FamHx
+None significant.
+
+SocHx
+Previous smoker; 50 pack-year history; quit about 3 years ago.
+Drinks alcohol rarely.
+No illicit drug use.
+The patient works as an accountant for a large computer company.
+He is married and has 3 children (ages 15, and 18 and 25).
+
+Medications
+Amoxicillin 875 mg PO BID #20, 0 refills
+Nasal mometasone 2 sprays each nostril daily #90, 3 refills
+Cetirizine 10 mg PO daily #90, 3 refills
+Triamterene 50 mg PO daily #90, 3 refills
+Hydrochlorothiazide 25 mg PO daily #90, 3 refills
+Amlodipine 5 mg PO daily #90, 3 refills
+Lisinopril 20 mg PO daily #90, 3 refills
+Glipizide 5 mg PO daily #90, 3 refills
+Oxygen gas 1 L/min inhaled daily #90, 3 refills
+Respiratory fluticasone 220 mcg inhaled BID #180, 3 refills
+Tiotropium 18 mcg inhaled daily #90, 3 refills
+Albuterol 2 puffs inhaled daily #1, 3 refills
+Simvastatin 80 mg PO daily #90, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+
+Review of Systems
+As noted above.
+
+
+Objective
+VITALS:
+	SBP:134, DBP:73, Pulse:64, POx:90, Temp:98.1, RR:13, Weight:274, Height:68, BMI:42
+EXAM:
+GEN: NAD, obese.
+HEENT: NCAT; Pt is tender over L frontal sinus; EOMI, PERRLA; TMs are pearly gray with normal landmarks and light reflex bilaterally; Nasal turbinates are inflamed and swollen; Oropharynx is non-erythematous.
+NECK: no anterior cervical lymphadenopathy.
+LUNGS: CTAB no W/R/R
+EXT: no LE edema
+
+Assessment and Plan
+
+Chronic sinusitis
+Assessment
+Control of Allergic rhinitis is worse.
+see chronic sinusitis
+Plan
+Renew Amoxicillin today to  treat acute sinusitis
+
+Allergic rhinitis
+Assessment
+Control of Allergic rhinitis is worse.
+see chronic sinusitis
+Plan
+Continue Mometasone nasal 2 sprays daily to decrease Nasal congestion (finding)
+Continue Cetirizine 10 mg daily to decrease  nasal congestion
+
+Hypertension
+Assessment
+Control of Hypertension is stable.
+SBP just a little bit above goal range of 130.  DBP within goal range of less than 80.  Creatinine and potassium are WNL. Patient reports no medication side effects.
+Plan
+Continue HCTZ 25 mg daily to decrease SBP and DBP
+Continue Amlodipine 5 mg daily to decrease SBP and DBP
+Continue Lisinopril 20 mg daily to decrease SBP and DBP
+Continue Triamterene 50 mg daily to decrease SBP and DBP, and increase Potassium
+Will watch BP for now.
+
+Diabetes mellitus type 2
+Assessment
+Control of Diabetes mellitus type 2 is stable.
+Pt increasing activity in order to better control weight.
+Plan
+Continue Aspirin 81 mg daily to prevent  MI
+Continue Glipizide 5 mg daily to decrease HbA1c
+
+Chronic obstructive pulmonary disease
+Assessment
+Control of Chronic obstructive pulmonary disease is stable.
+COPD symptoms controlled with current medications. 
+Plan
+Continue Albuterol 2 puffs daily to decrease  dyspnea
+Continue Fluticasone resp. 220 mcg BID to decrease NYHA class
+Continue Oxygen 1 L/min daily to decrease  dyspnea
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is improved.
+Tolerating increased does of simvastatin and AST WNL. LDL now within goal range.
+Plan
+Continue Simvastatin 80 mg daily to decrease LDL, and increase HDL
+
+Misc.
+Plan
+RTC 4 months, sooner if worsens or not better in 5 days.  Chem8 just before next visit.
+
+
+Author:  IM_Doctor

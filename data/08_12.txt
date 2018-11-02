@@ -1,0 +1,92 @@
+General Medical Clinic
+04/06/2010 13:00
+
+
+CC
+Light-headedness.
+
+
+Subjective
+
+Hypertension
+The patient reports that his BP has been good when he has checked it at home (about130/70), but he admits he has only checked a couple times in the last month.  He doesnt know why he is getting light-headed.  He says he now gets light-headed nearly every time he stands, even if he has had a good meal and is well hydrated.
+
+Parkinson disease
+Tremor and bradykinesia remain adequately controlled with current dose of carbidopa/levodopa.
+
+
+Osteoarthritis
+Knee pain adequately controlled as long as pt has Lortab available for occasional use (uses about once or twice a day).  Knee pain is 3/10 today.
+
+
+Benign prostatic hyperplasia
+When pt forgets to take Tamsulosin even one day he has troubles urinating (weak stream, increased nocturia).  However, as long as he takes his Tamsulosin, he is satisfied with his current condition.  His IPSS-AUA score is 15 today.
+
+
+Coronary Artery Disease
+No angina and no dyspnea at rest or on exertion.  The patient says hes still not ready to quit smoking.
+
+
+Depression
+Stable.  No significant depression episodes since last visit.  PHQ-9 is 2 today.
+
+
+
+Allergies
+NSAIDs: severe abdominal pain.
+
+
+PMH
+Hypertension
+Parkinson disease
+Depression
+Benign prostatic hyperplasia
+Osteoarthritis
+Hyperlipidemia
+Coronary Artery Disease
+
+PSurgHx
+none
+
+FamHx
+Mother died of CVA at age of 64
+Father died of MI at age 53
+
+
+SocHx
+Widower (wife died several years ago from breast cancer).
+Currently working at a small grocery store in town.
+Has 1 child that lives in another state.
+Denies alcohol and illicit drug use (has never used); he does smoke 1 ppd of cigarettes and has done so for about 40 years (40-pack-year history).
+
+
+Medications
+Hydrochlorothiazide 12.5 mg PO daily #90, 3 refills
+Carbidopa +levodopa 25mg/100mg tablet  2 Tablet PO q6h #360, 3 refills
+Acetaminophen 1000 mg PO daily #90, 3 refills
+Acetaminophen + hydrocodone bitartrate 5 mg PO BID #60, 5 refills
+Tamsulosin 0.8 mg PO daily #90, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+Citalopram 40  mg PO daily #90, 3 refills
+Simvastatin 80 mg PO daily #90, 3 refills
+
+Review of Systems
+All negative except as noted above.
+
+
+Objective
+VITALS:
+	SBP:126, DBP:65, Pulse:66, POx:95, Temp:98.6, RR:16, Weight:190, Height:73, BMI:25
+Orthostatic BP Measurements:
+Supine: BP = 128/63, P = 70
+Sitting: BP =  110/58, P = 72
+Standing: BP =  102/51, P = 76
+
+EXAM:
+GEN: NAD, well developed and well nourished.
+HEART: RRR no M/R/G
+LUNGS: CTAB no W/R/R
+EXT: no LE edema
+NEURO: hand tremor noted at rest, improved with purposeful movement; gait is a little slow, but otherwise normal.
+
+Author:  IM_Doctor

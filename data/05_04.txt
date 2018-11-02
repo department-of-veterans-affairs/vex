@@ -1,0 +1,43 @@
+General Medical Telephone
+10/30/2008 08:00
+
+
+Progress - Misc
+Caller: Provider
+Concerning: Lab orders
+Urgency: non-urgent
+Provider: Doctor1
+Patient: PatientLast, PatientFirst
+Next Scheduled Appointment: 11/05/2008
+
+Assessment and Plan
+
+Diabetes mellitus type 2
+Assessment
+Control of Diabetes mellitus type 2 is stable.
+Plan
+Check HbA1c
+Continue Metformin 500 mg BID to decrease HbA1c
+Check Microalbumin/Creat.
+
+Hypertension
+Assessment
+Control of Hypertension is stable.
+Plan
+Continue HCTZ 12.5 mg daily to decrease DBP and SBP
+Continue Metoprolol 25 mg BID to decrease DBP and SBP
+Continue Lisinopril 20 mg daily to decrease DBP and SBP
+Check Chem14
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is stable.
+Plan
+Check Lipid panel
+Continue Simvastatin 40 mg daily to decrease LDL, and increase HDL
+
+Misc.
+Plan
+I called pt to ask that he come in for a lab draw prior to his visit next week.  He agreed.
+
+Author:  IM_Doctor

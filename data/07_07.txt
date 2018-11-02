@@ -1,0 +1,28 @@
+General Medical Telephone
+05/21/2010 17:00
+
+
+Progress - Misc
+Caller: Provider
+Concerning: Lab results
+Urgency: non-urgent
+Provider: Doctor1
+Patient: PatientLast, PatientFirst
+Next Scheduled Appointment:7/1/2010
+
+Assessment and Plan
+
+Hypertension
+Assessment
+Control of Hypertension is stable.
+Plan
+Continue Aspirin 81 mg daily to prevent  MI
+Continue HCTZ 12.5 mg daily to decrease SBP and DBP
+Check Lipid panel
+Continue Lisinopril 20 mg daily to decrease DBP and SBP
+
+Misc.
+Plan
+I informed the patient that all of his labs came back normal.  I have asked the patient to get fasting labs done prior to his next visit with me.  He is due for Lipid Panel.
+
+Author:  IM_Doctor

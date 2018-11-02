@@ -1,0 +1,97 @@
+General Medical Clinic
+04/15/2008 13:00
+
+
+CC
+High BP noted at a health fair recently.
+
+Subjective
+The patient informs me that he has not seen a physician for about 10 years.  He has not had any medical problems diagnosed except for knee osteoarthritis.  He cannot remember the last time he had laboratory work done.
+
+
+
+Hypertension
+About one month ago the patient noted his BP was high when he checked it at the pharmacy.  He checked it several other times over a 2 week period and noted it was always about 165/100.  He was concerned so he went to a health fair about a week ago and had his BP measured by a nurse.  It was noted to be 169/105.  He was told to see his doctor as soon as possible and thats why hes here.  He does inform me that he has been taking a low dose Aspirin daily for the last few years because his Mother died of a heart attack at the age of 64 and he heard Aspirin may help his heart.
+
+
+Allergic rhinitis
+The patient indicates he does get hay fever symptoms in the Spring and Summer.  His symptoms include itchy and watery eyes as well as rhinorrhea and itchy throat.  His symptoms are currently well controlled.  He denies nasal congestion.  He is currently using Cetirizine 10 mg daily.
+
+Osteoarthritis
+The patient started having pain in his knees about 10 years ago.  The onset of pain was gradual and not associated with any trauma.  He was seen at an urgent care center about 10 years ago at which time his knees were X-rayed and he was told that he had mild knee osteoarthritis.  He has been using Acetaminophen occasionally for his pain, which has been sufficient to control his pain.  At the recommendation of his neighbor, he started using glucosamine and Sodium chondroitin sulfate a few years ago.  He thinks it helps.  He has no knee pain today.
+
+
+
+Allergies
+NKDA
+
+PMH
+1. Osteoarthritis
+2. Hypertension
+3. Allergic rhinitis
+
+PSurgHx
+None
+
+FamHx
+Mother died of MI at 64 years of age. 
+
+SocHx
+Smoker (20 pack year history - 1/2 PPD).
+No alcohol use.
+No illicit drug use.
+Works in construction.
+
+Review of Systems
+Full ROS negative except as noted above.
+
+
+Objective
+VITALS:
+	SBP:173, DBP:109, Pulse:78, POx:93, Temp:98.8, RR:13, Weight:184, Height:68, BMI:28
+EXAM
+GEN: NAD, well developed and well nourished.
+HEENT: NCAT, EOMI, nasal turbinates are pink and non-swollen, oropharynx is non-erythematous.
+HEART: RRR no M/R/G
+LUNGS: CTAB no W/R/R
+ABD: soft, NT, ND, +BS
+EXT: no LE edema
+NEURO: patellar DTRs are intact, gait is normal.
+
+Assessment and Plan
+
+Hypertension
+Assessment
+New diagnosis of Hypertension.
+Given consistently high BP, new dx of hypertension is appropriate.  The patients goal BP is less than 140/90.
+Plan
+Start HCTZ 12.5 mg daily today to decrease SBP and DBP
+Check Chem14
+Start Aspirin 81 mg daily today to prevent  MI
+Start Lisinopril 20 mg daily today to decrease DBP and SBP
+Recommended diet low in salt, saturated fats and simple sugars; recommended regular exercise (e.g. walking 30-60 minutes 5 times per week).
+
+
+Allergic rhinitis
+Assessment
+Control of Allergic rhinitis is stable.
+Well controlled on cetirizine 10 mg daily.
+Plan
+Continue Cetirizine 10 mg daily to decrease Nasal congestion (finding)
+
+Osteoarthritis
+Assessment
+Control of Osteoarthritis is stable.
+Well controlled with occasional use of acetaminophen; also using glucosamine and chondroitin sulfate.
+Plan
+Start Glucosamine 500 mg q8h today to decrease Knee Pain
+Start Chondroitin sulfate 400 mg q8h today to decrease Knee Pain
+Start Acetaminophen 1000 mg q6h PRN today to decrease Knee Pain
+
+Misc.
+Plan
+CBC also ordered today.  Lipid panel to be done just before next visit.
+RTC one month
+
+
+Author:  IM_Doctor

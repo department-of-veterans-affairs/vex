@@ -1,0 +1,142 @@
+General Medical Clinic
+11/19/2008 08:00
+
+
+CC
+New patient here to establish care.
+
+Subjective
+The patient was recently divorced and has just moved to town.  She has 2 children who live with her.  She has several chronic problems as noted below.  All are well controlled currently.
+
+Diabetes mellitus type 2
+The patient was diagnosed with diabetes mellitus type 2 about 3 years ago.  She has been overweight all her life she says and she thinks that is the cause of her diabetes.  However, she has had little success with dieting.  She finds exercising to be quite difficult given her size.  The patient took Metformin for a few days when she was first diagnosed but did not tolerate it.  She is currently well controlled on Glyburide.  She says her last HbA1c was about 7.3, which is about where it has been for the last 1-2 years.  The pt report that she has had no foot, eye or kidney problems and has no known cardiovascular disease.  She last saw her ophthalmologist about 1 month ago and her eyes were fine; she was told she was not due for another eye exam until October 2010.  The patient denies ever having any symptomatic hypoglycemic episodes.
+
+
+Hypertension
+3 years ago the patient started taking Lisinopril and Chlorthalidone for hypertension.  Her BP has been good recently (about 120s/70s).  She denies light-headedness.
+
+
+History of malignant neoplasm of thyroid
+In 2002 the patient was diagnosed with thyroid cancer (she doesnt remember what type); there was no evidence of metastasis at the time she was diagnosed.  Her thyroid was completely removed.  She has had no recurrence.
+
+
+Osteopenia
+The patient had a DXA scan about 3 months ago because her doctor thought she should given her FH of osteoporosis.  Her DXA scan was only slightly abnormal (osteopenia) so she was told to take calcium and vitamin D, which she has been doing.
+
+
+Postoperative hypothyroidism
+The patient has been using levothyroxine 125 mcg daily for postoperative hypothyroidism.  Her TSH was last checked about 1 year ago and was normal.  She currently has no constipation, diarrhea, fatigue, insomnia or palpitations.
+
+
+Depression
+About 3 months ago the patient started Fluoxetine for depression.  It caused severe anxiety so she was tried on Citalopram, which also caused severe anxiety.  She is now taking Venlafaxine 75 mg BID and her depression symptoms are very well controlled.  Since her divorce has been made final, she feels less stress over that issue as well.  She currently denies SI and HI and states she rarely feels depressed now.
+
+
+Hyperlipidemia
+The patient currently uses Simvastatin 80 mg daily for her hyperlipidemia.  Her LDL has been well controlled for about 1 year on this dose; she is due for cholesterol check today.  She is fasting (she has not taken her Glyburide yet).
+
+
+
+Allergies
+Metformin (severe nausea)
+Fluoxetine (severe anxiety)
+Citalopram (severe anxiety)
+
+
+PMH
+Hypertension
+Depression
+Diabetes mellitus type 2
+Hyperlipidemia
+Osteopenia
+History of malignant neoplasm of thyroid
+Postoperative hypothyroidism
+
+PSurgHx
+Thyroidectomy (complete, bilateral): 2002
+
+
+FamHx
+Diabetes mellitus type 2 and osteoporosis in the patients mother.
+
+
+SocHx
+Divorced mother of 5 (her two youngest children live with her; they are 14 and 16-years-old).
+The patient quit smoking about 6 years ago.  She drink alcohol rarely.  She denies use of illicit drugs.
+The patient works as an administrative assistant at a law firm in town.
+
+
+Review of Systems
+All negative except as noted above.
+
+
+Objective
+VITALS:
+	SBP:129, DBP:74, Pulse:79, POx:95, Temp:97.9, RR:12, Weight:258, Height:64, BMI:44
+EXAM:
+GEN: NAD, Obese female
+NECK: absence of thyroid noted; no lymphadenopathy noted
+HEART: RRR no M/R/G
+LUNGS: CTAB no W/R/R
+ABD: obese, NT, ND
+EXT: no LE edema
+FEET: normal monofilament test bilaterally; no abnormal lesions noted; normal DP pulses bilaterally
+NEURO: patellar DTRs are normal bilaterally
+PSYCH: normal mood and behavior
+
+Assessment and Plan
+
+Diabetes mellitus type 2
+Assessment
+Control of Diabetes mellitus type 2 is stable.
+Well controlled on Glyburide 2.5 mg daily.  HbA1c within goal range (less than 7.3) per pt report.  No h/o complications.  Normal foot exam today; normal eye exam last month.
+Plan
+Start Glyburide 2.5 mg daily today to decrease HbA1c
+
+Hypertension
+Assessment
+Control of Hypertension is stable.
+Goal BP is less than 130/80.  BP is within goal range today.  Tolerating Lisinopril and Chlorthalidone well.
+Plan
+Start Chlorthalidone 12.5 mg daily today to decrease SBP and DBP
+Start Lisinopril 20 mg daily today to decrease DBP and SBP
+Check Chem14
+
+History of malignant neoplasm of thyroid
+Assessment
+Control of History of malignant neoplasm of thyroid is stable.
+S/P complete thyroidectomy.  No recurrence.
+
+Osteopenia
+Assessment
+Control of Osteopenia is stable.
+Plan
+Start Ergocalciferol 1000 units daily today to prevent  fracture
+Start Calcium carbonate 500 mg q8h today to  prevent fracture
+
+Postoperative hypothyroidism
+Assessment
+Control of Postoperative hypothyroidism is stable.
+Appears to be well controlled on current dose of levothyroxine given lack of symptoms.  Patient is due for TSH.
+Plan
+Start Levothyroxine 125 mcg daily today to decrease TSH
+Check TSH
+
+Depression
+Assessment
+Control of Depression is stable.
+Well controlled on Venlafaxine 75 mg BID.  PHQ-9 result is 2, which is well within the patients goal range of 0 to 4.
+Plan
+Start Venlafaxine 75 mg BID today to decrease PHQ-9
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is stable.
+Has been well controlled on simvastatin 80 mg daily.  Due for lipid panel now.
+
+Misc.
+Plan
+RTC 6 months.
+
+
+Author:  IM_Doctor

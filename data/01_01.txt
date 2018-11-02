@@ -1,0 +1,63 @@
+Emergency Department Clinic
+12/25/2007 10:00
+
+
+CC
+Cough
+
+Subjective
+Cough: The patient presents with complaints of progressively worsening cough X about 2 weeks.  Cough is productive of green sputum.  The patient also c/o dyspnea on exertion, fever (X 2 days), chills and night sweats.  There has been no known sick contact.  Also, no recent nursing home or hospital admission and no use of antibiotics in the last 3 months.
+
+Hypertension
+The patient usually takes HCTZ 12.5 mg qday, Metoprolol 50 mg BID, and Lisinopril 20 mg qday for blood pressure.  However, he ran out of his Metoprolol and HCTZ about 3 months ago and hasnt gotten them refilled because he doesnt have a physician in this area (he moved here about 6 months ago).  He would also like a refill of his Lisinopril today.
+
+
+Diabetes mellitus type 2
+The patient indicates his DM has been well controlled.
+
+
+Review of Systems
+1. GEN: the pt has had an intentional weight loss of about 30 pounds over the last 4 months (watching diet and exercising).
+2. ENT: no rhinorrhea or sore throat.
+3. CV: no chest pain, light-headedness or syncope.
+4. PULM: as noted above.
+5. GI: no nausea, vomiting or diarrhea.
+6. MSK: no body aches or pains except for knee pain, which is mild and at the patients baseline (has osteoarthritis).
+7. NEURO: no confusion or focal weakness.
+8. DERM: no rash.
+9. PSYCH: normal mood and behavior.
+
+
+Objective
+VITALS:
+	SBP:156, DBP:93, Pulse:61, POx:92, Temp:101.2, RR:24, Weight:198, Height:70, BMI:28
+EXAM:
+GEN: NAD, well developed and well nourished.
+HEENT: NCAT, EOMI, PERRLA, TMs are pearly grey with normal landmarks and light reflexes, nasal turbinates are pink and non-swollen, oropharynx is non-erythematous with no exudates.
+NECK: no lymphadenopathy.
+HEART: RRR no M/R/G.
+LUNGS: decreased breath sounds in left lower lobe.
+ABD: soft, NT, ND, +BS
+EXT: no LE edema
+NEURO: AAOX3, CN II-XII intact, normal patellar DTRs, normal gait.
+
+Assessment and Plan
+
+Hypertension
+Assessment
+Control of Hypertension is worse.
+BP elevated today is likely because patient has been without some of his BP meds for several months.
+Plan
+Start Lisinopril 20 mg daily today to decrease SBP and DBP
+Start HCTZ 12.5 mg daily today to decrease DBP and SBP
+Start Metoprolol 50 mg BID today to decrease SBP and DBP
+
+Misc.
+Assessment
+Community Acquired Pneumonia: Chest X-ray is consistent with a LLL pneumonia.  CURB-65 score = 1 (age > 65) and patient appears well so will likely do fine with outpatient treatment.
+Plan
+Orders: CXR, CBC, chem14
+Community Acquired Pneumonia: Start levofloxacin 750 mg daily X 5 days (prescriptoin for levofloxacin called in to pharmacy of patients choice).  Pt is instructed to follow up with a primary care provider of his choice sometime in the next 2-5 days.  He is to return to the ER if his condition worsens at all or if he has fever > 1 more day, temperature > 104 degrees, confusion, light-headedness, nausea or vomiting.
+
+
+Author:  ED_Doctor

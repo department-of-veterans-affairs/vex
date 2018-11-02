@@ -1,0 +1,104 @@
+General Medical Clinic
+03/28/2008 08:00
+
+
+CC
+New patient here to establish care.
+
+Subjective
+The patient is a 69-year-old male who present to establish care.  He recently moved here from another state.  He recently retired and had to switch providers for insurance reasons.  He reports being in good health generally, but admits he is not doing very well with diet and exercise lately.  The pt informs me he is fasting today in preparation for labs.
+
+Of note, the patients BP is elevated today.  The patient reports his BP has always been good in the past.  He has never had to take medications for high blood pressure. 
+
+Hyperlipidemia
+The patient was recently started on Niacin (extended release) to help control his high cholesterol because it was high last time it was checked.  He does not like the flushing that Niacin causes.  He is not taking aspirin.  He does not tolerate statins (simvastatin caused severe muscle aches).  He has been on gemfibrozil for about 2 years (since the doctors realized he shouldnt take statins).
+
+Diabetes mellitus type 2
+Pt indicates his diabetes has been well controlled for about 3 years since he was first diagnosed.  He has never had any foot ulcers or lesions of significance.  He has also never had any kidney or heart problems that he knows of.  For diabetes, the patient is only taking Metformin 500 mg BID currently.  The patient assures me he just had an eye exam about 1 month ago and it was normal.  He says his last A1c was done about 6 months ago and was about 7.  He does not know when his last microalbumin/creatinine ratio test was done.
+
+Benign prostatic hyperplasia
+The patient has been using terazosin for BPH for about 8 years.  His symptoms have been well controlled now.  He rarely has to get up at night to urinate.  He agrees to fill out the IPSSA-AUA.  He denies light-headedness.
+
+Depression
+The patient was diagnosed with depression about 3 years ago.  His mood is now good and he denies suicidal and homicidal ideation.  He agrees to fill out the PHQ-9 questionnaire.
+
+
+Allergies
+Simvastatin: caused severe muscle aches.
+
+PMH
+Diabetes mellitus type 2 
+Hyperlipidemia
+Benign prostatic hyperplasia
+Depression
+
+PSurgHx
+Appendectomy as a child.
+
+FamHx
+None significant
+
+SocHx
+Non-smoker, no alcohol use, no illicit drug use.
+Retired banker.
+No children.
+Divorced.
+
+Objective
+VITALS:
+	SBP:152, DBP:96, Pulse:77, POx:97, Temp:99.2, RR:13, Weight:214, Height:68, BMI:33
+EXAM: 
+GEN: NAD, well groomed, well developed.
+HEAD: NCAT
+NECK: normal thyroid, no lymphadenopathy
+HEART: RRR no M/R/G
+LUNGS: CTAB no W/R/R
+ABD: soft, NT, ND
+EXT: no LE edema
+FEET: normal monofilament test bilaterally, no abnormal lesions on feet, normal DP pulses bilaterally.
+PSYCH: normal mood and behavior.
+
+Assessment and Plan
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is worse.
+LDL not in goal range of less than 70 per patient report; he is taking gemfibrozil and niacin.  He has had adverse reaction to statins and is not tolerating niacin well (causes significant flushing about 4 time per week); he has not been using aspirin to help control flushing.
+Plan
+Start Niacin ER 1000 mg daily today to decrease LDL and HDL
+Start Gemfibrozil 600 mg BID today to decrease LDL and HDL
+Start Aspirin 81 mg daily today to decrease Flushing
+Check Lipid panel
+
+Diabetes mellitus type 2
+Assessment
+Control of Diabetes mellitus type 2 is stable.
+Well controlled on Metformin.  Eye exam up to date and previously normal; foot exam normal today; due for hemoglobin A1C and microalbumin/creatinine ratio.
+Plan
+Check HbA1c
+Start Metformin 500 mg BID today to decrease HbA1c
+Check Microalbumin/Creat.
+Patient will be due for eye exam in 11 months.
+
+
+Benign prostatic hyperplasia
+Assessment
+Control of Benign prostatic hyperplasia is stable.
+Well controlled on Terazosin 2 mg.  IPSS-AUA score is 3 today, which is well within goal range of 0 to 6.
+Plan
+Start Terazosin 2 mg daily today to decrease IPSS-AUA
+
+Depression
+Assessment
+Control of Depression is stable.
+Well controlled on Citalopram 40 mg.  PHQ-9 is 6 today, which is well within goal range of 0 to 10.
+Plan
+Start Citalopram 40 mg daily today to decrease PHQ-9
+
+Misc.
+Assessment
+Elevated BP: this may be due to anxiety as this is the patients first visit to this office and his BP has been good in the past per his report.
+Plan
+Will also check CBC.
+
+Author:  IM_Doctor

@@ -1,0 +1,39 @@
+General Medical Telephone
+08/27/2008 17:00
+
+
+Progress - Misc
+Caller: Provider
+Concerning: lab and study results
+Urgency: non-urgent
+Provider: Doctor1
+Patient: PatientLast, PatientFirst
+Next Scheduled Appointment: none
+
+
+Assessment and Plan
+
+Coronary Artery Disease
+Assessment
+New diagnosis of Coronary Artery Disease.
+Cardiac stress test results suggestive of cardiac ischemia; further eval with coronary angiography suggested, but pt refuses.
+Plan
+Start Aspirin 81 mg daily today to  prevent MI
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is worse.
+LDL 148 today, which is above his goal of 100.
+Plan
+Increase Simvastatin from 40 mg daily to 80 mg daily today to decrease LDL, and increase HDL
+Pt will also get lipid panel and Chem14 in 3 months.
+
+
+Misc.
+Plan
+I informed pt of lab results and cardiac stress test results.
+
+RTC 3 months.
+
+
+Author:  IM_Doctor

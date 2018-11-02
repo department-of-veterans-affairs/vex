@@ -1,0 +1,117 @@
+General Medical Clinic
+06/25/2008 13:00
+
+
+CC
+New patient here to establish care.
+
+Subjective
+The patient indicates she recently moved to this state about 6 months ago.  She moved here to be closer to her children.
+
+
+
+Hypertension
+The patient was diagnosed with HTN when she was about 55 years old.  For the past 2 years her BP has been well controlled using HCTZ 12.5 mg daily, Lisinopril 20 mg daily and Metoprolol 25 mg BID.  She confirms that she is compliant with use of all of these medications and denies significant side effects from their use (i.e. no light-headedness and no kidney disease or electrolyte abnormality that she knows of).
+
+Osteoarthritis
+The patient has moderate osteoarthritis in her right hip and both of her knees.  Her pain is adequately controlled (4/10) with use of Lortab 5 mg BID PRN and Acetaminophen  500 mg q 6 hours PRN.  She uses Tylenol on a daily basis but uses Lortab only a few times a week.
+
+Coronary Artery Disease
+In 2005 the patient underwent workup for chest pain that revealed significant CAD.  She subsequently underwent CABG (3V).  Since that time she has not had any significant chest pain or shortness of breath.  The patient does use a daily, low dose Aspirin.
+
+Hyperlipidemia
+The patient indicates her cholesterol was high at her last clinic visit with her previous primary care provider about 6 months ago.  Simvastatin was increased from 40 mg to 80 mg daily at that time.
+
+Osteoporosis
+The patient was diagnosed with Osteoporosis after breaking her left hip in 2006.  The L hip fracture occurred after she fell from a short step stool.  This was a mechanical fall resulting from a simple miss-step as opposed to a medical condition.  The patient subsequently underwent L total hip arthroplasty and has faithfully been taking Alendronate 70 mg weekly since then.  She gets about 5 servings of dairy products per day in her diet.  She takes ergocalciferol 800 IU daily.
+
+
+Allergies
+Penicillin: causes angioedema
+
+PMH
+1. HTN  
+2. Osteoporosis (s/p L hip fracture and subsequent L total hip arthroplasty in 2006).
+3. Osteoarthritis (mostly R hip and both knees). 
+4. CAD (s/p 3V CABG in 2005)
+5. Hyperlipidemia
+
+
+PSurgHx
+1. Left total hip arthroplasty done in 2006.
+2. 3V CABG done in 2005.
+3. Tonsils and adenoids as a child.
+4. Total abdominal hysterectomy done in 1995.
+
+FamHx
+Osteoporosis in mother.
+CAD in father.
+
+SocHx
+Smokes 1/2 pack per day X 55 years.
+No alcohol or illicit drug use.
+Actively participates in her church organization.  Has 2 daughters (52 y.o. and 48 y.o.) that live nearby.
+
+Review of Systems
+Complete ROS is negative except for that noted above.
+
+Objective
+VITALS:
+	SBP:113, DBP:74, Pulse:78, POx:94, Temp:98.7, RR:13, Weight:187, Height:72, BMI:25
+EXAM:
+HEART: RRR no M/R/G
+LUNGS: CTAB no W/R/R
+EXT: no LE edema
+
+Assessment and Plan
+
+Hypertension
+Assessment
+Control of Hypertension is stable.
+Patient with long term (13 years) existing HTN controlled with HCTZ, lisinopril, and metoprolol for the past two years. BP looks good today.  A chemistry panel is due today.
+Plan
+Check Chem14
+Start HCTZ 12.5 mg daily today to decrease SBP and DBP
+Start Metoprolol 25 mg BID today to decrease SBP and DBP
+Start Lisinopril 20 mg daily today to decrease SBP and DBP
+
+Osteoarthritis
+Assessment
+Control of Osteoarthritis is stable.
+Patient with moderate osteoarthritis in her right hip and knees (current knee pain: 4/10; goal knee pain range: 0/10 to 4/10). The pain is adequately controlled with Lortab and acetaminophen.  She reports no medication side effects.
+Plan
+Start Acetaminophen 500 mg q6h PRN today to decrease Knee Pain
+Start Lortab 5 mg BID PRN today to decrease  knee pain
+
+Coronary Artery Disease
+Assessment
+Control of Coronary Artery Disease is stable.
+CAD - Patient without complaint since CABG three years ago. Patient without angina (0/10) today. Has been on 81 mg aspirin, simvastatin, and metoprolol and reports no medication side effects.
+Plan
+Start Aspirin 81 mg daily today to prevent  recurrent MI
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is worse.
+Patient with existing hyperlipidemia treated for the last six months with 80 mg simvastatin.  Given CAD, goal LDL and HDL are less than 100 and greater than 40, respectively.
+Plan
+Check Lipid panel
+Start Simvastatin 80 mg daily today to decrease LDL, and increase HDL
+Will inform pt of lipid panel results when available and will adjust medical therapy if needed.
+
+Osteoporosis
+Assessment
+Control of Osteoporosis is stable.
+Since a hip fracture in 2006 patient has been on alendronate and ergocalciferol with out any medication side effects.
+Plan
+Start Ergocalciferol 800 IU daily today to prevent  fracture.
+Start Alendronate 70 mg weekly today to prevent  fracture
+
+Misc.
+Assessment
+The patient currently appears to be very healthy despite her history of multiple significant medical problems.
+Plan
+CBC also ordered today.
+RTC in 6 months.
+
+Author:  IM_Doctor

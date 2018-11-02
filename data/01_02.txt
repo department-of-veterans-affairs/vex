@@ -1,0 +1,17 @@
+Radiology X-ray
+12/25/2007 11:00
+
+
+Objective
+EXAM: chest X-ray (PA and Lateral)
+
+CLINICAL HISTORY: Cough, fever, DOE.
+
+FINDINGS: 
+LUNGS: focal opacity noted in left lower lobe; most consistent with pneumonia.
+BONES: no fracture dislocation or abnormal lesions noted.
+MEDIASTINUM: normal width and contour.
+
+IMPRESSION: Left lower lobe pneumonia.
+
+Author:  Rad_Doctor

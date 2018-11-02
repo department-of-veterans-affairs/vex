@@ -1,0 +1,17 @@
+Radiology X-ray
+01/02/2008 14:00
+
+
+Objective
+EXAM: chest X-ray (PA and Lateral)
+
+CLINICAL HISTORY: follow up pneumonia.
+ 
+FINDINGS: 
+LUNGS: no infiltrates or abnormal opacities.
+BONES: no fracture dislocation or abnormal lesions noted.
+MEDIASTINUM: normal width and contour.
+
+IMPRESSION: No abnormalities noted.
+
+Author:  Rad_Doctor

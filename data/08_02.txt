@@ -1,0 +1,36 @@
+Cardiology Stress Test
+08/26/2008 13:00
+
+
+Progress - Misc
+STUDY:
+Cardiac exercise stress test (modified Bruce protocol)
+
+HISTORY: 
+The patient has multiple CV risk factors including FH, age, smoking, HTN and low HDL.  No typical chest pain.  No atypical chest pain.  No dyspnea at rest.  No significant dyspnea on exertion.
+
+PRE-STUDY FINDINGS (resting):
+BP: 132/81
+P: 72
+RR: 13
+POx: 94% on RA
+Temp: 97.9 F
+Pain: 2 (knee pain - pt indicates he should be able to get through study despite knee pain).
+12-lead EKG: normal sinus rhythm with no abnormalities.
+
+EXERCISE FINDINGS:
+BP (max): 174/119
+P (max): 145
+12-lead EKG: sinus tachycardia; ST segment depression (1.5 mm) noted in anterior leads. 
+
+POST EXERCISE FINDINGS (recovery phase):
+BP: 138/76
+12-lead EKG: normal sinus rhythm with no abnormalities.
+
+CLINICAL RESPONSE: 
+The patient exercised for 10 minutes and exceeded his target HR of 122 bpm.  He experienced mild, brief chest pain at peak exercise, but was otherwise free of chest pain.
+
+IMPRESSION:
+Adequate study; moderately suspicious for cardiac ischemia; consider coronary angiography for further evaluation.
+
+Author:  Cardio_Doctor

@@ -1,0 +1,81 @@
+General Medical Clinic
+07/20/2010 13:00
+
+
+CC
+symptomatic hypoglycemia
+
+Subjective
+
+Diabetes mellitus type 2
+As noted in telephone note from yesterday, the pt has had 2 episodes of symptomatic hypoglycemia in the last 4-6 weeks.  One episode happened on 6/15/2010 at about 5 AM (BG=62) and another episode occurred this morning at about 4 AM (BG=53); she felt shaky and a little confused yesterday while her BG was low (she was able to correct the low BG by drinking juice).  The pt reports she has been compliant with use of Glyburide, taking only 2.5 mg daily as instructed.   She has been checking her BG nearly every day for the last 2 weeks (average BG about 110, usually averages about 135).
+
+
+Hypertension
+The patient denies light-headedness and states her BP has been well controlled per her BP readings (high of 124/76 since last visit).
+
+
+Postoperative hypothyroidism
+No constipation, diarrhea, fatigue, insomnia or palpitations.
+
+
+Depression
+The pt denies depression, fatigue, feelings of guilt and lack of interest.  PHQ-9 score = 1 today.
+
+
+
+Allergies
+Metformin (severe nausea)
+Fluoxetine (severe anxiety)
+Citalopram (severe anxiety)
+
+
+PMH
+Diabetes mellitus type 2
+Hypertension
+Osteopenia
+Postoperative hypothyroidism
+Depression
+Hyperlipidemia
+
+PSurgHx
+Thyroidectomy (complete, bilateral): 2002
+
+
+FamHx
+Diabetes mellitus type 2 and osteoporosis in the patients mother.
+
+
+SocHx
+Divorced mother of 5 (her two youngest children live with her; they are 14 and 16-years-old).
+The patient quit smoking about 6 years ago.  She drink alcohol rarely.  She denies use of illicit drugs.
+The patient works as an administrative assistant at a law firm in town.
+
+
+Medications
+Glyburide 2.5 mg PO daily #90, 3 refills
+Lisinopril 40 mg PO daily #90, 3 refills
+Chlorthalidone 25 mg PO daily #90, 3 refills
+Calcium carbonate 500 mg PO q8h #270, 3 refills
+Ergocalciferol 1000 units PO daily #90, 3 refills
+Levothyroxine sodium preparation 125 mcg PO daily #90, 3 refills
+Venlafaxine 75 mg PO BID #180, 3 refills
+Simvastatin 80 mg PO daily #90, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+
+Review of Systems
+All negative except as noted above. 
+
+
+Objective
+VITALS:
+	SBP:128, DBP:69, Pulse:70, POx:97, Temp:98.6, RR:14, Weight:260, Height:64, BMI:45
+EXAM:
+GEN: NAD
+NECK: normal thyroid
+HEART: RRR no M/R/G
+FEET: normal monofilament test bilaterally; no abnormal lesions noted; normal DP pulses bilaterally
+EXT: no LE edema
+PSYCH: normal mood and behavior
+
+Author:  IM_Doctor

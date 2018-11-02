@@ -1,0 +1,78 @@
+General Medical Clinic
+12/08/2008 13:00
+
+
+CC
+Follow up Diabetes
+
+Subjective
+The patient requests advise on how to lose weight.  He indicates his goal body weight is about 40 pounds lighter than his current weight.  He does walk about 10 minutes per day with his regular acitivity, but does no other exercise.  He admits his portion sizes are probably bigger than they should be.
+
+
+
+Diabetes mellitus type 2
+The patient reports he no longer has nausea and bloating since decreasing dose of Metformin as counseled about 2-3 weeks ago.
+
+
+Allergies
+NKDA
+
+PMH
+HYPERTENSION NOS
+Diabetes Mellitus
+Coronary Artery Disease
+Benign prostatic hyperplasia
+Hyperlipidemia
+Depression
+
+
+PSurgHx
+Appendectomy at age 7 years. 
+
+FamHx
+Mother: Diabetes Mellitus 
+Father: Coronary Artery Disease
+Grandfather: Dementia
+ 
+
+SocHx
+Previous smoker, 1/2 ppd X 10 years (5 pack year history), quit 30 years ago.
+Occasional alcohol use (no more than 3 drinks per day)
+No illicit drug use ever
+Divorced, no children, works at hardware store.
+
+Medications
+Citalopram 40 mg PO daily #90, 3 refills
+Metformin 500 mg PO BID #180, 3 refills
+Hydrochlorothiazide 12.5 mg PO daily #90, 3 refills
+Lisinopril 20 mg PO daily #90, 3 refills
+Metoprolol 25 mg PO BID #180, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+Simvastatin 40 mg PO daily #90, 3 refills
+Tamsulosin 0.4 mg PO daily #90, 3 refills
+
+Objective
+VITALS:
+	SBP:115, DBP:68, Pulse:67, POx:96, Temp:97.8, RR:15, Weight:199, Height:68, BMI:30
+EXAM:
+GEN: NAD
+ABD: soft, NT, ND
+
+Assessment and Plan
+
+Diabetes mellitus type 2
+Assessment
+Control of Diabetes mellitus type 2 is improved.
+Patient tolerating decreased dose of Metformin.
+Plan
+Start Glimepiride 2 mg daily today to decrease HbA1c
+
+Misc.
+Assessment
+Obesity: the patients BMI is on the lower limit of the obese category - this was communicated to the patient.  The patient seems to be motivated to lose weight.
+Plan
+Obesity: I informed the patient that decreasing his portion sizes to about 2000 calories per day and increasing his activity by walking about 30 minutes, 5 days per week would be a good goal for him.  I agree that setting a goal weight range of 150 to 180 pounds (BMI of about 23 to 27) would be appropriate.
+RTC 6 months.
+
+
+Author:  IM_Doctor

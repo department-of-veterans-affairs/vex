@@ -1,0 +1,76 @@
+General Medical Clinic
+06/04/2010 13:00
+
+
+CC
+Follow up Diabetes and other conditions as noted below.
+
+Subjective
+
+Depression
+The patient denies depression symptoms at this time.  Her PHQ-9 is 6 today.
+
+Diabetes mellitus type 2
+The patient admits to poor diet control and infrequent exercise.  He confirms being compliant with use of Metformin and Glimiperide.
+
+Hypertension
+No light headedness.
+
+Coronary Artery Disease
+No angina.  No dyspnea.
+
+Benign prostatic hyperplasia
+The patient complains of increased nocturia (up from once per night to 3 times per night now).  His IPSS-AUA score is 15 today.
+
+Hyperlipidemia
+Patient wants to know how his cholesterol labs turned out.  He denies muslcle aches and indicates he is compliant with use of simvastatin and has noted no adverse effects.
+
+
+Allergies
+NKDA
+
+PMH
+HYPERTENSION NOS
+Diabetes Mellitus
+Coronary Artery Disease
+Benign prostatic hyperplasia
+Hyperlipidemia
+Depression
+
+
+PSurgHx
+Appendectomy at age 7 years. 
+
+FamHx
+Mother: Diabetes Mellitus 
+Father: Coronary Artery Disease
+Grandfather: Dementia
+ 
+
+SocHx
+Previous smoker, 1/2 ppd X 10 years (5 pack year history), quit 30 years ago.
+Occasional alcohol use (no more than 3 drinks per day)
+No illicit drug use ever
+Divorced, no children, works at hardware store.
+
+Medications
+Citalopram 40 mg PO daily #90, 3 refills
+Metformin 500 mg PO BID #180, 3 refills
+Glimepiride 2 mg PO daily #90, 3 refills
+Hydrochlorothiazide 12.5 mg PO daily #90, 3 refills
+Lisinopril 20 mg PO daily #90, 3 refills
+Metoprolol 25 mg PO BID #180, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+Simvastatin 40 mg PO daily #90, 3 refills
+Tamsulosin 0.4 mg PO daily #90, 3 refills
+
+Objective
+VITALS:
+	SBP:122, DBP:73, Pulse:71, POx:94, Temp:98, RR:13, Weight:198, Height:68, BMI:30
+GEN: NAD, well developed and nourished.
+NECK: normal thyroid, no lymphadenopathy.
+HEART: RRR no M/R/G
+LUNGS: CTAB no W/R/R
+FEET: normal sensation in both feet as tested with monofilament and tuning fork (vibration); no abnormal lesions; normal DP pulses bilaterally; normal temperature and color.
+
+Author:  IM_Doctor

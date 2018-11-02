@@ -1,0 +1,26 @@
+General Medical Telephone
+12/05/2008 17:00
+
+
+Progress - Misc
+Caller: Provider
+Concerning: X-ray results
+Urgency: non-urgent
+Provider: Doctor1
+Patient: PatientLast, PatientFirst
+Next Scheduled Appointment: none
+
+Assessment and Plan
+
+Osteoarthritis
+Assessment
+New diagnosis of Osteoarthritis.
+Plan
+Start Acetaminophen 1000 mg q6h PRN today to decrease Knee Pain
+I called the patient and informed her of her L knee xray results (Knee Osteoarthritis).  I recommended she take Acetaminophen 1000 mg PO every 6 hours as needed for her knee pain.  She is to schedule an apt to see me in clinic if not improved in 2 weeks, sooner if worsens.
+
+Misc.
+Plan
+Pt to see me for regular visit in 6 months.
+
+Author:  IM_Doctor

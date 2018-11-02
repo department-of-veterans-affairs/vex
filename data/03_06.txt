@@ -1,0 +1,74 @@
+Emergency Department Clinic
+03/16/2010 13:00
+
+
+CC
+Body aches.
+
+Subjective
+The patient c/o flu symptoms X about 36 hours.  Her symptoms came on suddenly and include body aches, cough, decreased appetite and sore throat.  She describes her symptoms as moderate and thinks she may have the flu.  She has not had any fever, chills, nausea or vomiting.  She has not been immunized for seasonal or H1N1 flu this season.  She has had recent contact with her daughter who was diagnosed with influenza a few days ago. 
+
+
+Allergies
+Penicillin: causes angioedema
+
+PMH
+1. HTN  
+2. Osteoporosis (s/p L hip fracture and subsequent L total hip arthroplasty in 2006).
+3. Osteoarthritis (mostly R hip and both knees). 
+4. CAD (s/p 3V CABG in 2005)
+5. Hyperlipidemia
+
+
+PSurgHx
+1. Left total hip arthroplasty done in 2006.
+2. 3V CABG done in 2005.
+3. Tonsils and adenoids as a child.
+4. Total abdominal hysterectomy done in 1995.
+
+FamHx
+Osteoporosis in mother.
+CAD in father.
+
+SocHx
+Smokes 1/2 pack per day X 55 years.
+No alcohol or illicit drug use.
+Actively participates in her church organization.  Has 2 daughters (52 y.o. and 48 y.o.) that live nearby.
+
+Medications
+Lisinopril 20 mg PO daily #90, 3 refills
+Hydrochlorothiazide 12.5 mg PO daily #90, 3 refills
+Acetaminophen + hydrocodone bitartrate 5 mg PO BID PRN #60, 3 refills
+Metoprolol 25 mg PO BID #180, 3 refills
+Glucosamine 500 mg PO q8h #270, 3 refills
+Sodium chondroitin sulfate 400 mg PO q8h #270, 3 refills
+Acetaminophen 500 mg PO q6h PRN #120, 11 refills
+Aspirin 81 mg PO daily #90, 3 refills
+Simvastatin 80 mg PO daily #90, 3 refills
+Alendronate sodium 70 mg PO weekly #12, 3 refills
+Ergocalciferol 800 IU PO daily #90, 3 refills
+
+Objective
+VITALS:
+	SBP:145, DBP:87, Pulse:90, POx:96, Temp:97.8, RR:13, Weight:187, Height:72, BMI:25
+VITALS:
+
+EXAM:
+GEN: appears mildly ill but is in NAD.
+HEENT: NCAT, EOMI, PERRLA, TMs are intact with normal landmarks and light reflex, nasal turbinates are erythematous and mildly swollen, Oropharynx is erythematous with small amount of exudate, mucus membranes in mouth appear slightly tacky.
+NECK: No lymphadenopathy.
+HEART: RRR no M/R/G
+LUNGS: CTAB no W/R/R
+ABD: soft, NT, ND
+EXT: no LE edema
+
+Assessment and Plan
+
+
+Misc.
+Assessment
+Influenza: Rapid strep came back negative; rapid flu came back positive.  CBC and chem8 are wnl and patient indicates she is feeling much better since receiving IV fluids here in the ER.
+Plan
+Influenza (positive rapid flu test): Rapid strep and flu tests as well as CBC and Chem8 done today.  The patient received a 500 mL NS bolus and now feels much better.  Given she is still in early stage of disease, will treat with a course of Tamiflu. The pt is to return to ER if develops fever, nausea or vomiting.
+
+Author:  ED_Doctor

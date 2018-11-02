@@ -1,0 +1,27 @@
+General Medical Telephone
+05/21/2008 17:00
+
+
+Progress - Misc
+Caller: Provider
+Concerning: Lab results
+Urgency: non-urgent
+Provider: Doctor1
+Patient: PatientLast, PatientFirst
+Next Scheduled Appointment: none
+
+Assessment and Plan
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is stable.
+LDL and HDL are within goal range today.
+Plan
+Continue Simvastatin 40 mg daily to decrease LDL
+
+Misc.
+Plan
+I called pt and informed her that her labs are all normal labs except her LFTs, which are slightly elevated.  May be from statin, however, statin is not new.  Rec repeat LFTs in 6 months with clinic visit at that time.
+
+
+Author:  IM_Doctor

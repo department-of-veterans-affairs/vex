@@ -1,0 +1,26 @@
+General Medical Telephone
+01/26/2009 13:00
+
+
+Progress - Misc
+Caller: Patient
+Concerning: Medication refill request.
+Urgency: non-urgent
+Provider: Doctor1
+Patient: PatientLast, PatientFirst
+Next Scheduled Appointment: none.
+
+CC
+Pt needs all meds refilled.
+
+Subjective
+The pt is aware that he missed his last scheduled appointment and was due to be seen in clinic several months ago.
+
+Assessment and Plan
+
+
+Misc.
+Plan
+I spoke with the pts provider who agreed to refill all medications.  Pts provider asked that pt set up an apt to be seen in clinic sometime in the next 4 weeks.  The pt agreed and set up an apt to see the provider on 2/10/2009.
+
+Author:  IM_Nurse

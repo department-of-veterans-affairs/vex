@@ -1,0 +1,62 @@
+General Medical Clinic
+07/06/2010 13:00
+
+
+CC
+F/u Diastolic heart failure
+
+Subjective
+The patient had blood drawn for labs this morning.
+
+Chronic diastolic heart failure
+The patient indicates her dyspnea has improved, but has not resolved.  She still gets fairly short of breath when laying down but doesnt feel short of breath as long as she is upright.  She thinks the Furosemide is helping.  She has lost about 3 pounds and has had a lot of urine coming out.
+
+
+Hypertension
+The patient c/o significant light-headedness with standing.
+
+
+
+Allergies
+NKDA
+
+PMH
+Chronic diastolic heart failure
+Hypertension
+Chronic renal impairment
+Diabetes mellitus type 2
+Hyperlipidemia
+
+PSurgHx
+Bilateral Mastectomy in 2006
+
+FamHx
+Father and mother both died of heart problems in their early 60s.  No cancer.
+
+SocHx
+The patient is a lifetime non-user of tobacco, alcohol and illicit drugs.  She is a widow.  She has 10 children (all are living and well).  Currently she lives close by with her son.
+
+Medications
+Diltiazem 240 mg PO daily #90, 3 refills
+Metoprolol 25 mg PO BID #180, 3 refills
+Furosemide 20 mg PO daily #90, 3 refills
+Lisinopril 40 mg PO daily #90, 3 refills
+Hydrochlorothiazide 12.5 mg PO daily #90, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+Metformin 1000 mg PO BID #180, 3 refills
+Simvastatin 40 mg PO daily #90, 3 refills
+
+Objective
+VITALS:
+	SBP:103, DBP:62, Pulse:65, POx:91, Temp:98.1, RR:15, Weight:145, Height:62, BMI:27
+Orthostatic BP readings:
+Laying: 113/73
+Standing: 101/56
+
+EXAM: 
+GEN: NAD, well appearing, well developed and well nourished.
+HEART: RRR no M/R/G
+LUNGS: bibasilar rales noted (improved).
+EXT: 2+ LE edema noted bilaterally.
+
+Author:  IM_Doctor

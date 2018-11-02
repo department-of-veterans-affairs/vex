@@ -1,0 +1,112 @@
+General Medical Clinic
+03/01/2010 13:00
+
+
+CC
+Follow up all chronic problems.
+
+Subjective
+The pt reports no significant interval changes.
+
+Diabetes mellitus type 2
+No hypoglycemia episodes.  Patient has given up on diet and exercise b/c she thinks they are hopeless.
+
+Hypertension
+No light-headedness.  BP has been a little high lately per pts report.  She checks her BP at home about once or twice per week.  Her highest BP has been about 150/90.
+
+
+Postoperative hypothyroidism
+No constipation, diarrhea, fatigue, insomnia or palpitations.
+
+Depression
+Doing well.  No SI and no HI.  Rarely feels depressed now.
+
+
+Allergies
+Metformin (severe nausea)
+Fluoxetine (severe anxiety)
+Citalopram (severe anxiety)
+
+
+PMH
+Diabetes mellitus type 2
+Hypertension
+Osteopenia
+Postoperative hypothyroidism
+Depression
+Hyperlipidemia
+
+PSurgHx
+Thyroidectomy (complete, bilateral): 2002
+
+
+FamHx
+Diabetes mellitus type 2 and osteoporosis in the patients mother.
+
+
+SocHx
+Divorced mother of 5 (her two youngest children live with her; they are 14 and 16-years-old).
+The patient quit smoking about 6 years ago.  She drink alcohol rarely.  She denies use of illicit drugs.
+The patient works as an administrative assistant at a law firm in town.
+
+
+Medications
+Glyburide 2.5 mg PO daily #90, 3 refills
+Lisinopril 20 mg PO daily #90, 3 refills
+Chlorthalidone 12.5 mg PO daily #90, 3 refills
+Calcium carbonate 500 mg PO q8h #270, 3 refills
+Ergocalciferol 1000 units PO daily #90, 3 refills
+Levothyroxine sodium preparation 125 mcg PO daily #90, 3 refills
+Venlafaxine 75 mg PO BID #180, 3 refills
+Simvastatin 80 mg PO daily #90, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+
+Objective
+VITALS:
+	SBP:137, DBP:78, Pulse:74, POx:93, Temp:99.3, RR:13, Weight:261, Height:64, BMI:45
+EXAM:
+GEN: NAD, obese
+FEET: normal monofilament test bilaterally; no abnormal lesions noted; normal DP pulses bilaterally
+PSYCH: normal mood and behavior
+
+Assessment and Plan
+
+Diabetes mellitus type 2
+Assessment
+Control of Diabetes mellitus type 2 is stable.
+HbA1c last checked about 6 months ago (was within goal range at that time).  Pt discouraged with difficulty losing weight.  Normal foot exam today.
+Plan
+Check HbA1c
+Continue Aspirin 81 mg daily to prevent  stroke
+Continue Glyburide 2.5 mg daily to decrease HbA1c
+
+Hypertension
+Assessment
+Control of Hypertension is worse.
+BP is above goal range today.
+Plan
+Increase Chlorthalidone from 12.5 mg daily to 25 mg daily today to decrease SBP and DBP
+Check Chem8
+Increase Lisinopril from 20 mg daily to 40 mg daily today to decrease DBP and SBP
+Follow up by phone in 2 weeks.
+
+Postoperative hypothyroidism
+Assessment
+Control of Postoperative hypothyroidism is stable.
+Doing well on levothyroxine 125 mcg daily.  TSH last checked almost 6 months ago.
+Plan
+Continue Levothyroxine 125 mcg daily to decrease TSH
+Check TSH
+
+Depression
+Assessment
+Control of Depression is stable.
+Well controlled on venlafaxine.  PHQ-9 score = 2 today.
+Plan
+Continue Venlafaxine 75 mg BID to decrease PHQ-9
+
+Misc.
+Plan
+Pt to get all labs in about 1-2 weeks.  Follow up HTN by phone in 2 weeks.  RTC 6 months.
+
+Author:  IM_Doctor

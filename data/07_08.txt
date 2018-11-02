@@ -1,0 +1,61 @@
+General Medical Clinic
+07/01/2010 13:00
+
+
+CC
+F/U Depression and lab work.
+
+Subjective
+The patient went by the lab this morning and got the labs ordered for today.
+
+Depression
+The patient indicates that his symptoms have improved significantly, but not as much as he expected.  He is still sleeping a lot (about 12 hours per day) and finds it hard to concentrate on looking for work.  He is eating better and has gained a few pounds.  He denies suicidal ideation.  His PHQ-9 score is 16 today.
+
+
+
+Allergies
+NKDA
+
+PMH
+Depression
+Hypertension
+Allergic rhinitis
+Acute sinusitis
+Osteoarthritis
+
+PSurgHx
+None
+
+FamHx
+Mother died of MI at 64 years of age. 
+
+SocHx
+Smoker (20 pack year history - 1/2 PPD).
+No alcohol use.
+No illicit drug use.
+Unemployed.
+
+Medications
+Citalopram 20 mg PO daily #60, 0 refills
+Lisinopril 20 mg PO daily #90, 3 refills
+Hydrochlorothiazide 12.5 mg PO daily #90, 3 refills
+Cetirizine 10 mg PO daily #90, 3 refills
+Amoxicillin 875 mg PO BID #20, 0 refills
+Acetaminophen 1000 mg PO q6h PRN #120, 11 refills
+Sodium chondroitin sulfate 400 mg PO q8h #270, 3 refills
+Glucosamine 500 mg PO q8h #270, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+
+Review of Systems
+As noted above.
+
+
+Objective
+VITALS:
+	SBP:127, DBP:82, Pulse:75, POx:93, Temp:99.2, RR:15, Weight:175, Height:68, BMI:27
+EXAM
+GEN: NAD, well developed and well nourished.
+HEART: RRR no M/R/G
+PSYCH: Normal mood and affect.
+
+Author:  IM_Doctor

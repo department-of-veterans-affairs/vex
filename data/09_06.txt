@@ -1,0 +1,42 @@
+General Medical Telephone
+11/09/2009 08:00
+
+
+Progress - Misc
+Caller: Provider
+Concerning: Lab orders
+Urgency: non-urgent
+Provider: Doctor1
+Patient: PatientLast, PatientFirst
+Next Scheduled Appointment: 11/16/09
+
+
+Assessment and Plan
+
+Hypertension
+Assessment
+Control of Hypertension is stable.
+Plan
+Continue Lisinopril 20 mg daily to decrease SBP and DBP
+Check Chem14
+Continue Metoprolol 50 mg BID to decrease SBP and DBP
+
+Iron deficiency anemia
+Assessment
+Control of Iron deficiency anemia is stable.
+Plan
+Continue Ferrous sulfate 325 mg BID to increase HCT
+Check CBC
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is stable.
+Plan
+Check Lipid panel
+Continue Simvastatin 40 mg daily to decrease LDL
+
+Misc.
+Plan
+I called pt and requested she get fasting labs done prior to her visit next week.
+
+Author:  IM_Doctor

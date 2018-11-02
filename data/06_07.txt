@@ -1,0 +1,30 @@
+General Medical Telephone
+03/13/2010 13:00
+
+
+Progress - Misc
+Caller: Provider
+Concerning: HTN and lab results.
+Urgency: non-urgent
+Provider: Doctor1
+Patient: PatientLast, PatientFirst
+Next Scheduled Appointment: none.
+
+Subjective
+Patient reports her blood pressures as taken at home (5 values taken over the last 2 weeks).  SBP ranged from 109 to 129 and DBP ranged from 63 to 78.
+
+Assessment and Plan
+
+Hypertension
+Assessment
+Control of Hypertension is improved.
+BP as checked at home is now within goal range of less than 130/80.
+Plan
+Continue Chlorthalidone 25 mg daily to decrease SBP and DBP
+Continue Lisinopril 40 mg daily to decrease DBP and SBP
+
+Misc.
+Plan
+I informed pt that all her labs came back normal except for her kidney tests which are a little high, suggesting she may be mildly dehydrated; I recommended she drink more fluids to keep herself well hydrated and instructed her to continue her medications as currently prescribed.
+
+Author:  IM_Doctor

@@ -1,0 +1,94 @@
+Emergency Department Clinic
+11/28/2008 23:00
+
+
+CC
+Cough and shortness of breath.
+
+Subjective
+The patient lives nearby but his primary care provider is located in a neighboring facility.  This is his first visit to a facility in our healthcare system but he plans on transferring care here since closer to his home.  He doesnt remember the names of all the medications he is using.
+
+Chronic sinusitis
+The patient c/o lots of nasal congestion, nasal drainage and sinus tenderness X about 2 weeks.  He c/o subjective fever.  He denies chills.  His cough is non-productive.  He denies chest pain.  The patient indicates he has a history of chronic sinusitis and even had a sinus surgery about 2 years ago, which has helped but he still gets sinusitis at least once a year.  His last case of sinusitis was about 10 months ago.  It resolved with a course of amoxicillin.
+
+Hypertension
+The patient indicates he ran out of his BP medications (lisinopril 20 mg daily and HCTZ 25 mg daily) about 2 days ago.  His BP is usually about 120/70.
+
+Chronic obstructive pulmonary disease
+The patient complains of cough and shortness of breath X 2 days.  He ran out of his supply of inhalers (fluticasone, albuterol and tiotropium) about one week ago.  He uses oxygen while sleeping at home (1L continuous flow by NC).  He was diagnosed with COPD about 3 years ago.  He was told it was likely secondary his having smoked for so many years.  He quit smoking about 3 years ago.
+
+
+Allergies
+beta blocker: bradycardia and light headedness
+Metformin: nausea.
+
+PMH
+Hypertension
+Chronic obstructive pulmonary disease
+Chronic sinusitis
+
+
+PSurgHx
+None.
+
+FamHx
+None significant.
+
+SocHx
+Previous smoker; 50 pack-year history; quit about 3 years ago.
+Drinks alcohol rarely.
+No illicit drug use.
+The patient works as an accountant for a large computer company.
+He is married and has 3 children (ages 15, and 18 and 25).
+
+Review of Systems
+Full review of systems negative except as noted above.
+
+Objective
+VITALS:
+	SBP:170, DBP:90, Pulse:55, POx:90, Temp:99.9, RR:16, Weight:241, Height:68, BMI:37
+EXAM:
+GEN: NAD, obese.
+HEENT: NCAT; Pt is tender over R maxillary sinus; EOMI, PERRLA; TMs are blocked with cerumen bilaterally prior to ear canal irrigation; TMs are pearly gray with normal landmarks and light reflex bilaterally post ear canal irrigation; Nasal turbinates are inflamed and swollen; Oropharynx shows coblestoning.
+NECK: no anterior cervical lymphadenopathy.
+HEART: RRR no M/R/G
+LUNGS: CTAB no W/R/R
+ABD: obese, NT, ND, +BS
+EXT: no LE edema
+
+Assessment and Plan
+
+Chronic sinusitis
+Assessment
+Control of Chronic sinusitis is worse.
+Patient with symptoms and signs suggestive of  acute sinusitis.
+Plan
+Start Amoxicillin 875 mg BID today to  treat acute sinusitis
+Recommend nasal washes and OTC decongestant and cough suppressant as needed.
+
+Hypertension
+Assessment
+Control of Hypertension is worse.
+Elevated BP today (170/90) most likely secondary to not taking his lisinopril and HCTZ for the last two days. 
+Plan
+Start HCTZ 25 mg daily today to decrease SBP and DBP
+Start Lisinopril 20 mg daily today to decrease SBP and DBP
+
+Chronic obstructive pulmonary disease
+Assessment
+Control of Chronic obstructive pulmonary disease is worse.
+Mild COPD exacerbation; much of his symptomology is likely secondary to not using his inhalers for the last week.  His current case of acute sinusitis may also be contributing to his symptoms and/or precipitating this mild COPD exacerbation.
+Plan
+Continue Albuterol 2 puffs daily to decrease  dyspnea
+Start Fluticasone resp. 220 mcg BID today to decrease NYHA class
+Continue Oxygen 1 L/min daily to decrease  dyspnea
+
+Misc.
+Assessment
+Cerumen impaction.
+Plan
+Note: Chem8 and CBC done today.
+Note: Nurse cleaned out pts ear canals.
+F/u with PCP early next week.
+
+Author:  ED_Doctor

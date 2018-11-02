@@ -1,0 +1,60 @@
+Ophthalmology Clinic
+03/11/2009 13:00
+
+
+CC
+Diabetic eye exam.
+
+Subjective
+Diabetes diagnosed about 10 years ago.  Well controlled on Metformin.  No history of eye problems.  Uses reading glasses.
+
+
+Allergies
+NKDA
+
+
+PMH
+Hypertension
+Osteoarthritis
+Coronary Artery Disease
+Diabetes mellitus type 2
+History of cerebrovascular accident without residual deficits
+Hyperlipidemia
+
+PSurgHx
+1. Cardiac stent placed in 2005
+
+
+FamHx
+non-contributory
+
+
+SocHx
+no tobacco, alcohol or illicit drug use
+
+
+Medications
+Hydrochlorothiazide 12.5 mg PO daily #90, 3 refills
+Lisinopril 20 mg PO daily #90, 3 refills
+Metformin 500 mg PO BID #180, 3 refills
+Metoprolol 25 mg PO BID #120, 3 refills
+Acetaminophen 1000 mg PO BID PRN #180, 3 refills
+Simvastatin 80 mg PO daily #90, 3 refills
+Aspirin 81 mg PO daily #90, 3 refills
+
+Objective
+VITALS:
+	SBP:124, DBP:82, Pulse:63, POx:95, Temp:98.3, RR:12, Weight:200, Height:70, BMI:29
+EXAM: 
+EYES: EOMI, PERRLA; both eyes dilated and fundi examined; both fundi are completely normal with no sign of diabetic retinopathy.
+
+Assessment and Plan
+
+
+Misc.
+Assessment
+No diabetic retinopathy.  Diabetes is currently well controlled.
+Plan
+Return for diabetic eye exam in 2 years.
+
+Author:  Oph_Doctor

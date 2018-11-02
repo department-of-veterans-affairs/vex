@@ -1,0 +1,132 @@
+General Medical Clinic
+10/31/2007 13:00
+
+
+CC
+ New patient. Here to establish care for problems outlined below.
+
+Subjective
+The patient recently moved here from a different state.  He was seeing his primary care physician about once every 6 months before moving here.  He indicates he is compliant with use of all of his medications and needs prescriptions for all of those today.
+
+Depression
+The pt c/o depression symptoms (fatigue, oversleeping and lack of interest mostly) X about 3-5 months.  He rates his fatigue as 7/10.  He has not been diagnosed with depression previously.  He denies history of suicide attempt and also denies current suicidal ideation.  He reports that he lives alone and feels depressed about his lack of social interaction.  He reports lack of motivation to seek out friendship from others.  He has had many friends in the past, but for the past 3-5 months, he has withdrawn from his friends to the point where he now interacts with others only rarely, even at work.  He thought his symptoms might improve after his recent move, but they have only gotten worse.
+
+Diabetes mellitus type 2
+Pt reports taking METFORMIN 500 mg BID.  He denies GI upset.  Pt indicates his HbA1c  has been well controlled since diagnosis and starting on Metformin about 3 years ago.  He has experienced no microvascular or macrovascular DM, type II complications to date.  His last eye exam was about 3 months ago and was normal.
+
+Hypertension
+The patient denies Light-headedness, He indicates he is currently taking HYDROCHLOROTHIAZIDE 12.5 mg qday, METOPROLOL 25 mg BID, and LISINOPRIL 20 mg qday.  He has been on these medications at these doses for over 1 year.
+
+Coronary Artery Disease
+The pt has one stent in his LAD placed about 3 years ago after presenting to the ED with chest pain.  He has experienced no Angina since stent placed about 3 years ago.  He is taking ASPIRIN 81 mg daily.  He is also taking METOPROLOL and LISINOPRIL as outlined under HTN.
+
+Benign prostatic hyperplasia
+The pt indicates he was diagnosed with BPH about 3 months ago.  He was started on TAMSULOSIN 0.4 mg daily at that time and his voiding symptoms have since mostly resolved.  He reports a strong urine flow, no hesitancy and minimal nocturia (about 1 time per night on average).
+
+Hyperlipidemia
+Pt reports he takes SIMVASTATIN 40 mg daily.  He indicates his ALT and AST have been normal.  He has experienced no negative side effects from use of SIMVASTATIN.  He indicates his cholesterol has been "good" the last two times it was checked.
+
+
+Allergies
+NKDA
+
+PMH
+HYPERTENSION NOS
+Diabetes Mellitus
+Coronary Artery Disease
+Benign prostatic hyperplasia
+Hyperlipidemia
+Depression
+
+
+PSurgHx
+Appendectomy at age 7 years. 
+
+FamHx
+Mother: Diabetes Mellitus 
+Father: Coronary Artery Disease
+Grandfather: Dementia
+ 
+
+SocHx
+Previous smoker, 1/2 ppd X 10 years (5 pack year history), quit 30 years ago.
+Occasional alcohol use (no more than 3 drinks per day)
+No illicit drug use ever
+Divorced, no children, works at hardware store.
+
+Review of Systems
+All negative.
+
+Objective
+VITALS:
+	SBP:110, DBP:73, Pulse:73, POx:95, Temp:98.7, RR:14, Weight:200, Height:68, BMI:30
+EXAM:
+NECK: normal thyroid exam.
+HEART: RRR no M/R/G
+EXT: no LE edema
+FEET: normal monofilament test bilaterally; normal DP pulses bilaterally; no abnormal lesions.
+RECTAL: mildly enlarged prostate of normal consistency with no nodules or abnormal lesions; normal rectal tone.
+
+Assessment and Plan
+
+Depression
+Assessment
+New diagnosis of Depression.
+PHQ-9 score (18/27) indicates moderately severe depression. Patient also describes severe fatigue (7/10).  Patient has not been treated previously for depression.
+Plan
+Check TSH
+Start Citalopram 20 mg daily today to decrease PHQ-9
+Check CBC
+Check Chem14.
+Refer to mental health for counseling - pt agrees.
+Re-evaluate in 6 weeks.
+
+Diabetes mellitus type 2
+Assessment
+Control of Diabetes mellitus type 2 is stable.
+Patient with Diabetes for 3 years; well controlled with metformin 500 mg bid.  He denies any medication side effects or disease complications to date. 
+Plan
+Check Chem14
+Check Microalbumin/Creat.
+Check HbA1c
+Start Metformin 500 mg BID today to decrease HbA1c
+Check Lipid panel.
+
+Hypertension
+Assessment
+Control of Hypertension is stable.
+Patient with existing HTN controlled with HCTZ, lisinopril, and metoprolol for the last year. BP is in goal range today (less than 130/80).  A chemistry panel is due today.
+Plan
+Start HCTZ 12.5 mg daily today to decrease DBP and SBP
+Start Metoprolol 25 mg BID today to decrease DBP and SBP
+Start Lisinopril 20 mg daily today to decrease DBP and SBP
+Check Chem14
+
+Coronary Artery Disease
+Assessment
+Control of Coronary Artery Disease is stable.
+CAD stable since patient had stent placed 3 years ago.  Patient without angina (0/10) today. Has been on 81mg aspirin, lisinopril, and metoprolol and reports no medication side effects.
+Plan
+Start Aspirin 81 mg daily today to  prevent MI
+Continue Metoprolol and Lisinopril.
+
+Benign prostatic hyperplasia
+Assessment
+Control of Benign prostatic hyperplasia is improved.
+Patient reports symptom improvement since starting medication 3 months ago.   Today reports 4/35 IPSS-AUA, within his goal range. 
+Plan
+Start Tamsulosin 0.4 mg daily today to decrease IPSS-AUA
+
+Hyperlipidemia
+Assessment
+Control of Hyperlipidemia is stable.
+Controlled with simvastatin 40 mg per patient report. Patient reports no significant side effects; has normal AST/ALT levels.
+Plan
+Check Lipid panel
+Start Simvastatin 40 mg daily today to decrease LDL, and increase HDL
+
+Misc.
+Plan
+RTC 6 weeks to follow up Depression.
+
+Author:  IM_Doctor

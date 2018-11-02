@@ -1,0 +1,141 @@
+General Medical Clinic
+12/05/2008 13:00
+
+
+CC
+Follow up post ER visit - COPD exacerbation, Acute sinusitis.
+
+Subjective
+56 y.o. male presents for follow up post ER visit about 1 week ago where he was diagnosed with mild COPD exacerbation and Acute sinusitis. 
+
+Chronic sinusitis
+The patient reports that for many years he was getting sinusitis about 5 times per year, but about 2 years ago he had sinus surgery and since then he gets acute sinusitis about once every year.  The patient was started on Amoxicillin for acute sinusitis 1 week ago and has about 3 days left of his antibiotic course.  His symptoms have greatly improved including decrease in nasal congestion, nasal drainage and sinus pressure/pain.  He denies fever, chills, nausea and chest pain now.
+
+
+Allergic rhinitis
+The patient reports he was prescribed medication (cetirizine and nasal mometasone for environmental allergies earlier this year but stopped using them about 2 months ago.  He now thinks he should restart these because he has started experiencing allergy symptoms on a daily basis again (i.e. itchy eyes and throat).
+
+
+Hypertension
+The patient indicates he is taking Lisinopril 20 mg daily and HCTZ 25 mg daily for HTN.  His BP was high in the ER last week, but he had been without his BP meds for 2 days.  He is now back on his BP meds.  He denies light-headedness.  He denies lower extremity swelling (Edema, peripheral).
+
+Diabetes mellitus type 2
+The patient was diagnosed with type II diabetes about 10 years ago.  He was started on metformin at that time, but did not tolerate the side effects (nausea) and refuses to try metformin again.  He currently has been adequately controlled on Glipizide 5mg before breakfast every day.  His last HbA1c was 6.9 per his report.  He reports no h/o foot, kidney or eye complications.
+
+Chronic obstructive pulmonary disease
+The patient gets mildly short of breath with activity.  He is using his Fluticasone resp., Tiotropium and Albuteral inhaled as directed now.  He was without those medications for about a week before his ER visit last week.  He was diagnosed with COPD about 3 years ago.  He was a long time user of tobacco (50-pack year) but quit about 3 years ago.  For the past year he has been using 1L of continuous flow oxygen via nasal canula at night while sleeping.  He last had PFTs done about one month ago that was consistent with COPD.  He had a sleep study that ruled out sleep apnea less than a year ago.
+
+Hyperlipidemia
+The patient was started on Simvastatin about 7 years ago.  His dose has been increased once, but for the past 4 years he has been on the same dose.  He denies side effects from simvastatin.  His cholesterol hasnt been checked for about one year per his report.
+
+
+
+Allergies
+beta blocker: bradycardia and light headedness
+Metformin: nausea.
+
+PMH
+Hypertension
+Diabetes mellitus type 2
+Chronic obstructive pulmonary disease 
+Chronic sinusitis
+Allergic rhinitis
+Hyperlipidemia
+
+PSurgHx
+None.
+
+FamHx
+None significant.
+
+SocHx
+Previous smoker; 50 pack-year history; quit about 3 years ago.
+Drinks alcohol rarely.
+No illicit drug use.
+The patient works as an accountant for a large computer company.
+He is married and has 3 children (ages 15, and 18 and 25).
+
+Medications
+Amoxicillin 875 mg PO BID #20, 0 refills
+Hydrochlorothiazide 25 mg PO daily #90, 3 refills
+Lisinopril 20 mg PO daily #90, 3 refills
+Oxygen gas 1 L/min inhaled daily #90, 3 refills
+Respiratory fluticasone 220 mcg inhaled BID #180, 3 refills
+Tiotropium 18 mcg inhaled daily #90, 3 refills
+Albuterol 2 puffs inhaled daily #1, 3 refills
+
+Review of Systems
+Full review of systems negative except as noted above.
+
+Objective
+VITALS:
+	SBP:155, DBP:84, Pulse:64, POx:91, Temp:98.3, RR:13, Weight:249, Height:68, BMI:38
+EXAM:
+GEN: NAD, obese.
+HEENT: NCAT; conjunctivae are mildly injected; pt is non-tender over paranasal sinuses; TMs are pearly gray with normal landmarks and light reflex; Nasal turbinates are mildly pale and mildly swollen; Oropharynx is non-erythematous.
+HEART: RRR no M/R/G
+LUNGS: CTAB no W/R/R
+ABD: obese, NT, ND, +BS
+EXT: no LE edema; normal sensation in both feet as measured with monofilament and tuning fork tests; normal DP and PT pulses; no abnormal lesions on feet; feet are warm and of normal color. 
+
+Assessment and Plan
+
+Chronic sinusitis
+Assessment
+Control of Chronic sinusitis is improved.
+Sinusitis symptoms are improved over the last week after starting amoxicillin.
+Plan
+Continue Amoxicillin 875 mg BID to  treat acute sinusitis
+Encourage nasal washes on a daily basis.  Stressed the importance of treating environmental allergies.
+
+
+Allergic rhinitis
+Assessment
+Control of Allergic rhinitis is worse.
+Allergic rhinitis symptoms worsening since stopping cetirizine and flonase.
+Plan
+Start Mometasone nasal 2 sprays daily today to decrease Nasal congestion (finding)
+Start Cetirizine 10 mg daily today to decrease  nasal congestion
+
+Hypertension
+Assessment
+Control of Hypertension is improved.
+BP still high (155/84) but improved over his BP measured in the ER one week ago. Patient restarted lisinopril and HCTZ last week and reports no medications side effects. Was on a beta blocker previously but reports this caused him to feel light-headed.
+Plan
+Check Chem14
+Continue HCTZ 25 mg daily to decrease SBP and DBP
+Start Amlodipine 5 mg daily today to decrease SBP and DBP
+Continue Lisinopril 20 mg daily to decrease SBP and DBP
+
+Diabetes mellitus type 2
+Assessment
+Control of Diabetes mellitus type 2 is stable.
+Pt with diabetes mellitus type 2 for the last 10 years and is obese (BMI 41).  Currently taking Glipizide without side effects.  Pt not due for diabetic eye exam for about 6 months per his report.  Foot exam is normal today.
+Plan
+Check HbA1c
+Check Microalbumin/Creat.
+Renew Aspirin today to prevent  MI
+Start Glipizide 5 mg daily today to decrease HbA1c
+
+Chronic obstructive pulmonary disease
+Assessment
+Control of Chronic obstructive pulmonary disease is improved.
+COPD diagnosed about 3 years ago secondary to a 50 pack years history of smoking.  COPD controlled with tiotropium, albuterol and O2.  Patient reports no medication side effects.  Patient reports PFTs acquired about a month ago at an outside hospital
+Plan
+Continue Albuterol 2 puffs daily to decrease  dyspnea
+Continue Fluticasone resp. 220 mcg BID to decrease NYHA class
+Continue Oxygen 1 L/min daily to decrease  dyspnea
+I have asked the patient to get me the outside records of his last PFTs.
+
+Hyperlipidemia
+Assessment
+Patient with hyperlipidemia for the last 7 years, currently treated with simvastatin.  He reports no medication side effects.
+Plan
+Start Simvastatin 40 mg daily today to decrease LDL, and increase HDL
+Check Lipid panel
+
+Misc.
+Plan
+RTC in one month.
+
+Author:  IM_Doctor
