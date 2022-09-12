@@ -1,4 +1,4 @@
-##VEx
+## VEx
 
 If using this library, please cite:
 
