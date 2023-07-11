@@ -7,6 +7,7 @@ If using this library, please cite:
 
 Chapman AB, Alba PR, Bucher BT, Duvall SL, Patterson OV. **A User-Friendly Interface for Concept Dictionary Expansion Using Word Embeddings and SNOMED-CT**. In: *AMIA Annu Symp Proc*. 2018. 
 
+## Demo 
 See LexDiscoverDemo.ipynb for an example walkthrough. 
 
 ### Getting Started
